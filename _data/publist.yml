@@ -1,0 +1,54 @@
+- title: "Reevaluating Adversarial Examples in Natural Language"
+  authors: John X. Morris, Eli Lifland, Jack Lanchantin, Yangfeng Ji, Yanjun Qi
+  link:
+    url: https://arxiv.org/abs/2004.14174
+    display: arXiv
+  pub: Preprint
+  year: 2020
+  code:
+    url: https://github.com/QData/TextAttack
+    display: Github
+
+- title: "Pointwise Paraphrase Appraisal is Potentially Problematic"
+  authors: Hannah Chen, Yangfeng Ji, David Evans
+  link:
+    url: ""
+    display: ""
+  pub: ACL 2020 Student Research Workshop
+  year: 2020
+  code:
+    url: ""
+    display: ""
+
+- title: "Generating Hierarchical Explanations on Text Classification via Feature Interaction Detection"
+  authors: Hanjie Chen, Guangtao Zheng, Yangfeng Ji
+  link:
+    url: https://arxiv.org/abs/2004.02015
+    display: arXiv
+  pub: ACL
+  year: 2020
+  code:
+    url: https://github.com/UVa-NLP/HEDGE
+    display: Github
+
+- title: "Improving the Explainability of Neural Sentiment Classifiers via Data Augmentation"
+  authors: Hanjie Chen, Yangfeng Ji
+  link:
+    url: https://arxiv.org/abs/1909.04225
+    display: arXiv
+  pub: NeurIPS 2019 Workshop on Robust AI in Financial Services
+  year: 2019
+  code:
+    url: ""
+    display: ""
+
+- title: "An Empirical Comparison on Imitation Learning and Reinforcement Learning for Paraphrase Generation"
+  authors: Wanyu Du, Yangfeng Ji
+  link:
+    url: https://arxiv.org/abs/1908.10835
+    display: arXiv
+  pub: EMNLP
+  year: 2019
+  code:
+    url: https://github.com/wyu-du/Reinforce-Paraphrase-Generation
+    display: Github

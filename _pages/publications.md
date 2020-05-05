@@ -1,0 +1,24 @@
+---
+title: "UVa NLP - Publications"
+layout: gridlay
+excerpt: "UVa NLP -- Publications."
+sitemap: false
+permalink: /publications/
+---
+
+
+# Publications
+
+<!-- ## Full List -->
+
+{% for publi in site.data.publist %}
+
+  <b>{{ publi.title }}</b> <br/>
+  <em> {{ publi.authors }} </em> <br/>
+  {{ publi.pub }}, {{publi.year}} <br/>
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> &nbsp; <a href="{{ publi.code.url }}">{{ publi.code.display }}</a>
+
+{% endfor %}
+
+
+
