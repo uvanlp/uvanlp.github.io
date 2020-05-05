@@ -13,7 +13,7 @@ We are a group of AI researchers who are interested in advancing language techno
 On this website, you can find out 
 
 - [Who we are]({{ site.url }}{{ site.baseurl }}/team)
-- [What we are working on]({{ site.url }}{{ site.baseurl }}/research), and
+- [What we are working on]({{ site.url }}{{ site.baseurl }}/research) and
 - [What we have written so far]({{ site.url }}{{ site.baseurl }}/publications)
 
 
