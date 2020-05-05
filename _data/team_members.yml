@@ -9,7 +9,7 @@
   photo: hannah-chen.jpg
   url: https://hannahxchen.github.io
   info: PhD student (June 2019 --, co-advised with David Evans)
-  research: Robust NLP, Sentence-level semantics
+  research: Robust NLP, sentence-level semantics
   email: yc4dx@virginia.edu
 
 - name: Sanxing Chen
@@ -23,7 +23,7 @@
   photo: wanyu-du.jpg
   url: https://wyu-du.github.io
   info: Master student (Jan 2019 -- )
-  research: Text generation
+  research: Text generation, deep latent variable models
   email: wd5jq@virginia.edu
 
 - name: Zhiming Fan
@@ -36,7 +36,7 @@
 - name: Yangfeng Ji
   photo: yangfeng-ji.png
   url: http://yangfengji.net
-  info: Assistent professor (Aug 2018 -- )
+  info: Assistant professor (Aug 2018 -- )
   research: Natural language processing, machine learning
   email: yangfeng@virginia.edu
 
