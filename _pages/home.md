@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Welcome to the natural language processing (NLP) group @ UVa. This group is part of the [Computer Science Department](https://engineering.virginia.edu/departments/computer-science) of the [University of Virginia](https://www.virginia.edu).
+Welcome to the natural language processing (NLP) group @ UVa. This group is part of the [Computer Science Department](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://www.virginia.edu).
 
 We are a group of AI researchers who are interested in advancing language technology to facilitate human-AI collaboration and benefit our society.
 
