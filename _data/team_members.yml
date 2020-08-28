@@ -29,7 +29,7 @@
 - name: Wanyu Du
   photo: wanyu-du.jpg
   url: https://wyu-du.github.io
-  info: Master student (Jan 2019 -- )
+  info: PhD student (Aug 2020 -- )
   research: Text generation, deep latent variable models
   email: wd5jq@virginia.edu
 
@@ -46,13 +46,6 @@
   info: Assistant professor (Aug 2018 -- )
   research: Natural language processing, machine learning
   email: yangfeng@virginia.edu
-
-- name: Wenbo Pang
-  photo: cartoon.png
-  url: http://uvanlp.github.io
-  info: PhD student (Mar 2020 -- )
-  research: Interpretable machine learning for NLP
-  email: wp6ju@virginia.edu
 
 - name: Aidan San
   photo: aidan-san.jpg
