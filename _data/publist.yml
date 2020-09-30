@@ -1,3 +1,14 @@
+- title: "A Tale of Two Linkings: Dynamically Gating between Schema Linkingand Structural Linking for Text-to-SQL Parsing"
+  authors: Sanxing Chen, Aidan San, Xiaodong Liu, Yangfeng Ji
+  link:
+    url: ""
+    display: ""
+  pub: CoLING
+  year: 2020
+  code:
+    url: ""
+    display: ""
+
 - title: "Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers"
   authors: Hanjie Chen, Yangfeng Ji
   link:
