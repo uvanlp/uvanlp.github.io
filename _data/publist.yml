@@ -1,8 +1,8 @@
 - title: "A Tale of Two Linkings: Dynamically Gating between Schema Linkingand Structural Linking for Text-to-SQL Parsing"
   authors: Sanxing Chen, Aidan San, Xiaodong Liu, Yangfeng Ji
   link:
-    url: ""
-    display: ""
+    url: http://arxiv.org/abs/2009.14809
+    display: arXiv
   pub: CoLING
   year: 2020
   code:
