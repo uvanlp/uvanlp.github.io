@@ -12,13 +12,13 @@
 - title: "Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers"
   authors: Hanjie Chen, Yangfeng Ji
   link:
-    url: ""
-    display: ""
+    url: https://arxiv.org/abs/2010.00667
+    display: arXiv
   pub: EMNLP
   year: 2020
   code:
-    url: ""
-    display: ""
+    url: https://github.com/UVa-NLP/VMASK
+    display: Github
 
 - title: "Finding Friends and Flipping Frenemies: Automatic Paraphrase Dataset Augmentation Using Graph Theory"
   authors: Hannah Chen, Yangfeng Ji, David Evans
