@@ -23,13 +23,13 @@
 - title: "Finding Friends and Flipping Frenemies: Automatic Paraphrase Dataset Augmentation Using Graph Theory"
   authors: Hannah Chen, Yangfeng Ji, David Evans
   link:
-    url: ""
+    url: 
     display: ""
   pub: EMNLP (Findings)
   year: 2020
   code:
-    url: ""
-    display: ""
+    url: https://github.com/hannahxchen/automatic-paraphrase-dataset-augmentation
+    display: arXiv
 
 - title: "Reevaluating Adversarial Examples in Natural Language"
   authors: John X. Morris, Eli Lifland, Jack Lanchantin, Yangfeng Ji, Yanjun Qi
