@@ -6,8 +6,8 @@
   pub: CoLING
   year: 2020
   code:
-    url: ""
-    display: ""
+    url: https://github.com/sanxing-chen/linking-tale
+    display: Github
 
 - title: "Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers"
   authors: Hanjie Chen, Yangfeng Ji
