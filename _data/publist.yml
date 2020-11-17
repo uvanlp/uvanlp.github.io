@@ -1,3 +1,14 @@
+- title: "This is a Problem, Don't You Agree?" Framing and Bias in Human Evaluation for Natural Language Generation
+  authors: Stephanie Schoch, Diyi Yang, Yangfeng Ji
+  link:
+    url:""
+    display: ""
+  pub: Workshop on Evaluating NLG Evaluation at INLG
+  year: 2020
+  code:
+    url: ""
+    display: ""
+
 - title: "A Tale of Two Linkings: Dynamically Gating between Schema Linkingand Structural Linking for Text-to-SQL Parsing"
   authors: Sanxing Chen, Aidan San, Xiaodong Liu, Yangfeng Ji
   link:
