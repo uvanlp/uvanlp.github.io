@@ -1,7 +1,7 @@
 ---
 title: "UVa ILP - Home"
 layout: homelay
-excerpt: "The UVa NLP Group"
+excerpt: "The UVa ILP Lab"
 sitemap: false
 permalink: /
 ---
