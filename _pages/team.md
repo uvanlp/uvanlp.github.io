@@ -1,7 +1,7 @@
 ---
-title: "UVa NLP - Team"
+title: "UVa ILP - Team"
 layout: gridlay
-excerpt: "UVa NLP -- Team members."
+excerpt: "UVa ILP -- Team members."
 sitemap: false
 permalink: /team/
 ---

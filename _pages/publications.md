@@ -1,7 +1,7 @@
 ---
-title: "UVa NLP - Publications"
+title: "UVa ILP - Publications"
 layout: gridlay
-excerpt: "UVa NLP -- Publications."
+excerpt: "UVa ILP -- Publications."
 sitemap: false
 permalink: /publications/
 ---

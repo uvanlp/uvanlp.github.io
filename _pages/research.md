@@ -1,7 +1,7 @@
 ---
-title: "UVa NLP - Research"
+title: "UVa ILP - Research"
 layout: textlay
-excerpt: "UVa NLP -- Research"
+excerpt: "UVa ILP -- Research"
 sitemap: false
 permalink: /research/
 ---

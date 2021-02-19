@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "The UVa NLP Group"
+excerpt: "The UVa ILP Group"
 sitemap: false
 permalink: /allnews.html
 ---

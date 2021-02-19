@@ -1,5 +1,5 @@
 ---
-title: "UVa NLP - Home"
+title: "UVa ILP - Home"
 layout: homelay
 excerpt: "The UVa NLP Group"
 sitemap: false
