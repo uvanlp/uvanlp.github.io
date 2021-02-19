@@ -21,5 +21,5 @@ permalink: /publications/
 {% endfor %}
 
 <br>
-This page only contains the publications from the UVa NLP group. For Yangfeng Ji's publications before 2019, please refer to [his academic webpage](http://yangfengji.net/publication/).
+This page only contains the publications from the UVa ILP lab. For Yangfeng Ji's publications before 2019, please refer to [his academic webpage](http://yangfengji.net/publication/).
 
