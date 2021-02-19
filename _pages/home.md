@@ -6,9 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Welcome to the natural language processing (NLP) group @ UVa. This group, led by [Yangfeng Ji](https://yangfengji.net), is part of the [Computer Science Department](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://www.virginia.edu).
-
-We are a group of AI researchers who are interested in advancing language technology to facilitate human-AI collaboration and benefit our society.
+Welcome to the Information and Language Processing (ILP) lab @ UVa. This lab, led by [Yangfeng Ji](https://yangfengji.net), is part of the [Computer Science Department](https://engineering.virginia.edu/departments/computer-science) at the [University of Virginia](https://www.virginia.edu).
 
 On this website, you can find out 
 
@@ -17,3 +15,4 @@ On this website, you can find out
 - [What we have written so far]({{ site.url }}{{ site.baseurl }}/publications)
 
 
+**Under Construction**
