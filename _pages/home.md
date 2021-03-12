@@ -15,4 +15,3 @@ On this website, you can find out
 - [What we have written so far]({{ site.url }}{{ site.baseurl }}/publications)
 
 
-**Under Construction**
