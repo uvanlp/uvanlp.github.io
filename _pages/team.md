@@ -92,7 +92,7 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <h4><a href="{{member.url}}">{{ member.name }}</a></h4>
-  <i>{{ member.info }} (now: <{{ member.now }}>)</i>
+  <i>{{ member.info }} (now: {{ member.now }})</i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
