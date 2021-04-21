@@ -122,6 +122,7 @@ permalink: /team/
   {% endif %}
   </ul>
 </div>
+{% endfor %}
 
 <!-- {% assign number_printed = number_printed | plus: 1 %} -->
 
