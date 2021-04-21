@@ -93,10 +93,12 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <h4><a href="{{member.url}}">{{ member.name }}</a></h4>
   <i>{{ member.info }}</i>
-  - graduated in {{ member.year }}
-  - now: {{ member.now }}
+  <ul>
+  <li> graduated in {{ member.year }} </li>
+  <li> now: {{ member.now }} </li>
+  </ul>
+  
   <ul style="overflow: hidden">
-
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
@@ -118,7 +120,6 @@ permalink: /team/
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   {% endif %}
-
   </ul>
 </div>
 
