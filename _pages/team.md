@@ -122,20 +122,20 @@ permalink: /team/
   {% endif %}
   </ul>
 </div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
 {% endfor %}
 
-<!-- {% assign number_printed = number_printed | plus: 1 %} -->
 
-<!-- {% if even_odd == 1 %} -->
-<!-- </div> -->
-<!-- {% endif %} -->
-
-<!-- {% endfor %} -->
-
-<!-- {% assign even_odd = number_printed | modulo: 2 %} -->
-<!-- {% if even_odd == 1 %} -->
-<!-- </div> -->
-<!-- {% endif %} -->
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 
 <!-- ## Alumni -->
