@@ -62,7 +62,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll
+  jekyll (>= 3.6.3)
   webrick (~> 1.7)
 
 BUNDLED WITH

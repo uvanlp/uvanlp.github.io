@@ -10,8 +10,11 @@ img { margin-bottom: 24px;
 
 
 body {
-	padding-top: 70px;
+    padding-top: 70px;
+    font-size: 19px;
+    /* font-family: helvetica; */
 }
+
 
 figcaption {
     text-align: right;
@@ -48,7 +51,8 @@ firstp {
 
 /* Home, News */
 #newsid p {
-	text-align: left;
+    text-align: left;
+    font-size: 16px;
 }
 
 #homeidtmp h1 {
@@ -76,8 +80,9 @@ firstp {
 
 /* Grid overrides */
 .col-sm-4 {
-	padding-left: 26px;
-	padding-right: 26px;
+    padding-left: 26px;
+    padding-right: 26px;
+    font-size: 15px;
 }
 
 
