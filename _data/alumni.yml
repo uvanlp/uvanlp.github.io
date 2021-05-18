@@ -1,8 +1,26 @@
+- name: Aniruddha Dave
+  url: https://www.linkedin.com/in/aniruddhadave
+  info: Graduate researcher
+  year: 2021
+  now: Amazon
+
 - name: Clara Na
   url: ""
   info: Undergraduate researcher
   year: 2021
   now: Ph.D. student @ CMU LTI (starting in Fall 2021)
+
+- name: Mohit Sudhakar
+  url: https://mohitsudhakar.github.io
+  info: Graduate researcher
+  year: 2021
+  now: Medallia
+
+- name: Sanxing Chen
+  url: http://www.cs.virginia.edu/~sc3hn/
+  info: Graduate researcher
+  year: 2020
+  now: Microsoft
 
 - name: Yuelan Shen
   url: https://www.linkedin.com/in/yuelan-sheng-5b7974135
