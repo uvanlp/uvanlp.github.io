@@ -91,12 +91,11 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><a href="{{member.url}}">{{ member.name }}</a></h4>
-  <i>{{ member.info }}</i>
-  <ul>
-  <li> Graduated in {{ member.year }} </li>
-  <li> Now: {{ member.now }} </li>
-  </ul>
+  <i>{{ member.info }}</i><br>
+  Graduated in {{ member.year }} <br>
+  Now: {{ member.now }}
   
   <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}

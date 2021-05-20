@@ -1,35 +1,42 @@
 - name: Aniruddha Dave
+  photo: aniruddha-dave.jpg
   url: https://www.linkedin.com/in/aniruddhadave
   info: Graduate researcher
   year: 2021
   now: Amazon
 
 - name: Clara Na
+  photo: clara-na.jpg
   url: ""
   info: Undergraduate researcher
   year: 2021
   now: Ph.D. student @ CMU LTI (starting in Fall 2021)
 
 - name: Mohit Sudhakar
+  photo: mohit-sudhakar.jpg
   url: https://mohitsudhakar.github.io
   info: Graduate researcher
   year: 2021
   now: Medallia
 
 - name: Sanxing Chen
+  photo: sanxing-chen.jpg
   url: http://www.cs.virginia.edu/~sc3hn/
   info: Graduate researcher
   year: 2020
   now: Microsoft
 
 - name: Yuelan Shen
+  photo: yuelan-shen.jpeg
   url: https://www.linkedin.com/in/yuelan-sheng-5b7974135
   info: Undergraduate researcher
   year: 2020
   now: Master student @ Yale CS
 
 - name: Yaser Qazi
+  photo: yaser-qazi.jpeg
   url: https://www.linkedin.com/in/yaserqazi
   info: Undergraduate researcher
   year: 2019
   now: Software Engineer @ Alarm.com
+
