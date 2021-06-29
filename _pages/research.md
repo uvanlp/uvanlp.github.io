@@ -9,13 +9,13 @@ permalink: /research/
 # Research Projects
 
 
-## Model Interpretability and Robustness
+### 1. Model Interpretability and Robustness
 
 
-## Text Generation
+### 2. Text Generation
 
 
-## Dataset Analysis
+### 3. Dataset Analysis
 
 
 <!-- Research project 1 -->
