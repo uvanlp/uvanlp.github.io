@@ -11,6 +11,10 @@ permalink: /research/
 
 ### 1. Model Interpretability and Robustness
 
+In addition to prediction accuracy, interpretability and robustness should also be considered as two intrinsic properties. The research in this lab focuses on 
+
+- providing rich forms of interpretations ([Chen et al., 2020](https://arxiv.org/abs/2004.02015); [Chen et al., 2021](https://arxiv.org/abs/2104.04488))
+- improving model interpretability and robustness ([Chen and Ji, 2020](https://arxiv.org/abs/2010.00667))
 
 ### 2. Text Generation
 
