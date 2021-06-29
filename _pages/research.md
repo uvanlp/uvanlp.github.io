@@ -18,9 +18,14 @@ In addition to prediction accuracy, interpretability and robustness should also 
 
 ### 2. Text Generation
 
+Generating texts with rich context is a long-term challenge in natural language generation. To address this challenge, we are working on 
 
-### 3. Dataset Analysis
+- building neural network models to incorporate contextual information ([Clark et al., 2018]()); and 
+- developing algorithms for effectively training neural network models ([Du and Ji, 2019](https://arxiv.org/abs/1908.10835))
 
+### 3. Text Dataset Analysis
+
+- TODO
 
 <!-- Research project 1 -->
  
