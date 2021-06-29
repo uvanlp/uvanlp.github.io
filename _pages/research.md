@@ -6,9 +6,18 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+# Research Projects
 
-Under construction
+
+## Model Interpretability and Robustness
+
+
+## Text Generation
+
+
+## Dataset Analysis
+
+
 <!-- Research project 1 -->
  
 <!-- ## Research -->
