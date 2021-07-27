@@ -1,3 +1,13 @@
+- title: "Contextualizing Variation in Text Style Transfer Datasets"
+  authors: Stephanie Schoch, Wanyu Du, Yangfeng Ji
+  pub: INLG
+  year: 2021
+
+- title: "Underreporting of errors in NLG output, and what to do about it"
+  authors: Emiel van Miltenburg, Miruna-Adriana Clinciu, Ondřej Dušek, Dimitra Gkatzia, Stephanie Inglis, Leo Leppänen, Saad Mahamood, Emma Manning, Stephanie Schoch, Craig Thomson and Luou Wen
+  pub: INLG
+  year: 2021
+
 - title: "Explaining Neural Network Predictions on Sentence Pairs via Learning Word-Group Masks"
   authors: Hanjie Chen, Song Feng, Jatin Ganhotra, Hui Wan, Chulaka Gunasekara, Sachindra Joshi and Yangfeng Ji
   link:
