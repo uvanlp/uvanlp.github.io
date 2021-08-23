@@ -19,8 +19,8 @@
 - title: "Explaining Neural Network Predictions on Sentence Pairs via Learning Word-Group Masks"
   authors: Hanjie Chen, Song Feng, Jatin Ganhotra, Hui Wan, Chulaka Gunasekara, Sachindra Joshi and Yangfeng Ji
   link:
-    url: https://arxiv.org/abs/2104.04488
-    display: arXiv
+    url: https://aclanthology.org/2021.naacl-main.306/
+    display: ACL Anthology
   pub: NAACL
   year: 2021
 
@@ -31,6 +31,9 @@
     display: arXiv
   pub: Preprint
   year: 2021
+  code:
+    url: https://gem-benchmark.com/
+    display: Project Webpage
 
 - title: "This is a Problem, Don't You Agree? Framing and Bias in Human Evaluation for Natural Language Generation"
   authors: Stephanie Schoch, Diyi Yang, Yangfeng Ji
