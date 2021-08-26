@@ -1,3 +1,18 @@
+- title: "HittER: Hierarchical Transformers for Knowledge Graph Embeddings"
+  authors: Sanxing Chen, Xiaodong Liu, Jianfeng Gao, Jian Jiao, Ruofei Zhang, Yangfeng Ji
+  link:
+    url: "https://arxiv.org/abs/2008.12813"
+    display: "arXiv"
+  pub: EMNLP
+  year: 2021
+    
+
+- title: SideControl: Controlled Open-domain Dialogue Generation via Additive Side Networks
+  authors: Wanyu Du, Yangfeng Ji
+  pub: EMNLP (Findings)
+  year: 2021
+
+
 - title: "Contextualizing Variation in Text Style Transfer Datasets"
   authors: Stephanie Schoch, Wanyu Du, Yangfeng Ji
   pub: INLG
@@ -6,10 +21,12 @@
     url: https://arxiv.org/abs/2108.07871
     display: arXiv
 
+
 - title: "Underreporting of errors in NLG output, and what to do about it"
   authors: Emiel van Miltenburg, Miruna-Adriana Clinciu, Ondřej Dušek, Dimitra Gkatzia, Stephanie Inglis, Leo Leppänen, Saad Mahamood, Emma Manning, Stephanie Schoch, Craig Thomson and Luou Wen
   pub: INLG
   year: 2021
+
 
 - title: "Perturbing Inputs for Fragile Interpretations in Deep Natural Language Processing"
   authors: Sanchit Sinha, Hanjie Chen, Arshdeep Sekhon, Yangfeng Ji, Yanjun Qi
@@ -19,6 +36,7 @@
   pub: Preprint
   year: 2021
 
+
 - title: "Explaining Neural Network Predictions on Sentence Pairs via Learning Word-Group Masks"
   authors: Hanjie Chen, Song Feng, Jatin Ganhotra, Hui Wan, Chulaka Gunasekara, Sachindra Joshi and Yangfeng Ji
   link:
@@ -26,6 +44,7 @@
     display: ACL Anthology
   pub: NAACL
   year: 2021
+
 
 - title: "The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics"
   authors: Sebastian Gehrmann et al.
@@ -38,6 +57,7 @@
     url: https://gem-benchmark.com/
     display: Project Webpage
 
+
 - title: "This is a Problem, Don't You Agree? Framing and Bias in Human Evaluation for Natural Language Generation"
   authors: Stephanie Schoch, Diyi Yang, Yangfeng Ji
   link:
@@ -45,6 +65,7 @@
     display: ACL Anthology
   pub: Workshop on Evaluating NLG Evaluation at INLG
   year: 2020
+
 
 - title: "A Tale of Two Linkings: Dynamically Gating between Schema Linkingand Structural Linking for Text-to-SQL Parsing"
   authors: Sanxing Chen, Aidan San, Xiaodong Liu, Yangfeng Ji
@@ -57,6 +78,7 @@
     url: https://github.com/sanxing-chen/linking-tale
     display: Github
 
+
 - title: "Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers"
   authors: Hanjie Chen, Yangfeng Ji
   link:
@@ -67,6 +89,7 @@
   code:
     url: https://github.com/UVa-NLP/VMASK
     display: Github
+
 
 - title: "Finding Friends and Flipping Frenemies: Automatic Paraphrase Dataset Augmentation Using Graph Theory"
   authors: Hannah Chen, Yangfeng Ji, David Evans
@@ -79,6 +102,7 @@
     url: https://github.com/hannahxchen/automatic-paraphrase-dataset-augmentation
     display: Github
 
+
 - title: "Reevaluating Adversarial Examples in Natural Language"
   authors: John X. Morris, Eli Lifland, Jack Lanchantin, Yangfeng Ji, Yanjun Qi
   link:
@@ -89,17 +113,7 @@
   code:
     url: https://github.com/QData/TextAttack
     display: Github
-
-- title: "HittER: Hierarchical Transformers for Knowledge Graph Embeddings"
-  authors: Sanxing Chen, Xiaodong Liu, Jianfeng Gao, Jian Jiao, Ruofei Zhang, Yangfeng Ji
-  link:
-    url: "https://arxiv.org/abs/2008.12813"
-    display: "arXiv"
-  pub: Preprint
-  year: 2020
-  code:
-    url: ""
-    display: ""
+    
 
 - title: "Charging at Second Culmination? Optimal Freemium Pricing for E-books via Field Experiment and Text Analysis"
   authors: Yongjun Li, Hanbing Xue, Yangfeng Ji, Natasha Zhang Foutz
@@ -112,6 +126,7 @@
     url: ""
     display: ""
 
+
 - title: "Familiar Story with (Some) Different Actors? Impact of Content and Execution Similarity on Success of Hedonic Product Line Extension"
   authors: Jieqiong Zhang, Yangfeng Ji, Weihe Gao, Natasha Zhang Foutz
   link:
@@ -122,6 +137,7 @@
   code:
     url: ""
     display: ""
+
 
 - title: "Pointwise Paraphrase Appraisal is Potentially Problematic"
   authors: Hannah Chen, Yangfeng Ji, David Evans
@@ -134,6 +150,7 @@
     url: ""
     display: ""
 
+
 - title: "Generating Hierarchical Explanations on Text Classification via Feature Interaction Detection"
   authors: Hanjie Chen, Guangtao Zheng, Yangfeng Ji
   link:
@@ -145,6 +162,7 @@
     url: https://github.com/UVa-NLP/HEDGE
     display: Github
 
+
 - title: "Improving the Explainability of Neural Sentiment Classifiers via Data Augmentation"
   authors: Hanjie Chen, Yangfeng Ji
   link:
@@ -155,6 +173,7 @@
   code:
     url: ""
     display: ""
+
 
 - title: "An Empirical Comparison on Imitation Learning and Reinforcement Learning for Paraphrase Generation"
   authors: Wanyu Du, Yangfeng Ji
