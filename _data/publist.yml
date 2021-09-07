@@ -20,6 +20,9 @@
   authors: Wanyu Du, Yangfeng Ji
   pub: EMNLP (Findings)
   year: 2021
+  link:
+    url: https://arxiv.org/abs/2109.01958
+    display: arXiv
 
 
 - title: "Contextualizing Variation in Text Style Transfer Datasets"
