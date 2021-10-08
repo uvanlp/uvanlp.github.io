@@ -16,7 +16,7 @@
   photo: wanyu-du.jpg
   url: https://wyu-du.github.io
   info: PhD student (Aug 2020 -- )
-  research: Text generation, deep latent variable models
+  research: Conversation modeling, few-shot learning
   email: wd5jq@virginia.edu
 
 - name: Yangfeng Ji
@@ -25,6 +25,34 @@
   info: Assistant professor (Aug 2018 -- )
   research: Natural language processing, machine learning
   email: yangfeng@virginia.edu
+
+- name: Maya Kalidindi
+  photo: maya-kalidindi.jpg
+  url: ""
+  info: Undergraduate student
+  research: ""
+  email: ""
+
+- name: Wan Li
+  photo: wan-li.png
+  url: ""
+  info: Undergraduate student
+  research: ""
+  email: ""
+
+- name: Rohan Nair
+  photo: default.png
+  url: ""
+  info: Master student (Aug. 2020 -- )
+  research: ""
+  email: ""
+
+- name: Elizabeth Palmieri
+  photo: default.png
+  url: ""
+  info: Master student (Aug. 2021 -- )
+  research: ""
+  email: ""
 
 - name: Aidan San
   photo: aidan-san.jpg
@@ -37,7 +65,7 @@
   photo: stephanie-schoch.jpg
   url: http://stephanieschoch.com
   info: PhD student (Aug 2019 -- )
-  research: Text generation
+  research: Text generation, text dataset analysis
   email: sns2gr@virginia.edu
 
 - name: Ruixuan Tang
@@ -47,4 +75,24 @@
   research: Interpretable machine learning for NLP
   email: rt5tb@virginia.edu
 
+- name: Andrew Wang
+  photo: default.png
+  url: ""
+  info: Master Student (May 2021 -- )
+  research: Representation learning, bias detection
+  email: ""
+
+- name: Madellyne Waugh
+  photo: default.png
+  url: ""
+  info: PhD student (Aug 2020 -- )
+  research: "" 
+  email: ""
+
+- name: Dane Williamson
+  photo: dane-williamson.jpg
+  url: ""
+  info: PhD student (Aug 2020 -- )
+  research: ""
+  email: ""
 
