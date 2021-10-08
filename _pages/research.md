@@ -16,7 +16,7 @@ In addition to prediction accuracy, interpretability and robustness should also 
 - providing rich forms of interpretations (e.g., [Chen et al., 2020](https://www.aclweb.org/anthology/2020.acl-main.494/); [Chen et al., 2021](https://www.aclweb.org/anthology/2021.naacl-main.306/));
 - improving model interpretability and robustness (e.g., [Chen and Ji, 2020](https://www.aclweb.org/anthology/2020.emnlp-main.347/)).
 
-### 2. Text Generation
+### 2. Text Generation and Conversation Modeling
 
 Automatically generating texts is a fundamental challenge in natural language processing and connected to many real-world applications, such as conversation modeling and story generation.
 To address this challenge, we are working on 
