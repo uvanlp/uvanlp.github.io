@@ -18,10 +18,13 @@ url: ""
 include:
   - .htaccess
   - _pages
-  - _posts
 
 sass:
   sass_dir: _sass
+
+collections:
+  posts:
+    output: true
 
 # Conversion
 markdown: kramdown

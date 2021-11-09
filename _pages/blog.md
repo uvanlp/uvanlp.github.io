@@ -1,16 +1,14 @@
 ---
-title: "UVa ILP - Blog"
-layout: gridlay
+title: "UVa ILP Blog"
+layout: post
 excerpt: "UVa ILP - Blog"
 sitemap: false
 permalink: /blog/
 ---
 
-# Blog
-
-<ul>
-{% for item in site.posts %}
-<li> {{item.time}}
-</li>
-{% endfor %}
+<ul class="posts">
+	{% for post in site.posts %}
+	<li> {{ post.title }}</li>
+	{% endfor %}
 </ul>
+
