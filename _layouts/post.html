@@ -6,13 +6,9 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   
   <header class="post-header">
-    <h2 class="post-title" itemprop="name headline"><b>{{ page.title }}</b></h2>
-    
-    <p class="post-meta">
-      {% if page.author %}
-      <h4>{{ page.author }}<br>{{ page.date | date: "%b %-d, %Y" }}</h4>
-      {% endif %}
-    </p>
+    <h2 class="post-title" itemprop="name headline"><b>{{ page.title }}</b></h2><br>
+    <h4>Author: <a href="{{ page.homepage }}">{{ page.author }}</a> </h4>
+    <h4>Date: {{ page.date | date: "%b %-d, %Y" }}</h4>
   </header>
   <br>
   <div class="post-content" itemprop="articleBody">
