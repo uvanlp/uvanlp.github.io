@@ -1,10 +1,16 @@
 ---
-title: "UVa ILP - Publications"
+title: "UVa ILP - Blog"
 layout: gridlay
-excerpt: "UVa ILP -- Publications."
+excerpt: "UVa ILP - Blog"
 sitemap: false
-permalink: /publications/
+permalink: /blog/
 ---
 
 # Blog
 
+<ul>
+{% for item in site.posts %}
+<li> {{item.time}}
+</li>
+{% endfor %}
+</ul>
