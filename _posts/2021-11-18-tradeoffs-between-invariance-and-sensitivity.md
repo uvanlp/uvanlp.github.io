@@ -6,6 +6,7 @@ homepage: "https://yangfengji.net"
 date: 2021-11-18
 tldr: "The fundamental tradeoffs between two types of adversarial perturbations and the underlying explanations."
 editor: ""
+category: "adversarial learning"
 ---
 
 
