@@ -7,13 +7,12 @@ layout: default
   
   <header class="post-header">
     <h2>{{ page.title }}</h2><br>
-    Author: {{ page.author }}<br>
-    Date: {{ page.date | date: "%b %-d, %Y" }}
+    {{ page.author }}<br>
+    {{ page.date | date: "%b %-d, %Y" }}
   </header>
   <br>
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
-  
-<br><br>
+  <br><br>
 </article>
