@@ -34,7 +34,7 @@ Although the examples in the second column do not have the same labels as the fi
 
 Unfortunately, this misalignment is not an easy issue to solve. As indicated by *Lemma 4* in their paper, finding an oracle-aligned distance function \\( \text{dist}(\cdot) \\) is equally challenging as finding the oracle \\( \mathcal{O} \\). 
 
-In section 5 of [Tramer et al. 2020](https://arxiv.org/pdf/2002.04599.pdf), this work further explains the underlying reasons of getting an overly-robust model in adversarial training:
+In section 5 of [Tramer et al. 2020](https://arxiv.org/pdf/2002.04599.pdf), it further explains the underlying reasons of getting an overly-robust model in adversarial training:
 > the ability to fit an overly robust model thus relies on the training data not being fully representative of the space to which the oracle assigns labels. 
 
 Furthermore, the fact that these models can generalize means 
