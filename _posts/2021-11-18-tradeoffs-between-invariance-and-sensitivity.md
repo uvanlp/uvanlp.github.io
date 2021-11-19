@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Tradeoffs between Invariance- and Sensitivity-based Adversarial Perturbations"
-author: Yangfeng Ji and Hannah Chen
+author: "Yangfeng Ji and Hannah Chen"
 homepage: "https://yangfengji.net"
 date: 2021-11-18
 tldr: "The fundamental tradeoffs between two types of adversarial perturbations and the underlying explanations."
 editor: ""
+label: "robustness"
 ---
 
 
@@ -21,7 +22,7 @@ However, optimizing model robustness to \\( l_p \\)-bounded perturbation, as poi
 This is because the model is excessively protected from sensitivity-based attacks and becomes less sensitive to some *real* semantic changes, which actually flip the ground-truth labels. 
 In this work, this type of models are called *overly-robust models*.[^fn1] They demonstrated this intuition in the image below.
 
-<img src="{{ site.url }}/figures/tramer2020fundamental-figure-1.png" alt="Examples of excessive sensitivity vs. excessive invariance" style="width:800px;"/>
+<img src="{{ site.url }}/figures/tramer2020fundamental-figure-1.png" alt="Examples of excessive sensitivity vs. excessive invariance" style="width:90%;"/>
 
 The key concept in [Tramer et al. 2020](https://arxiv.org/pdf/2002.04599.pdf) for understanding this fundamental tradeoff is the **distance-oracle misalignment**. 
 In general, the misalignment is defined over three example: \\( \{x,x_1,x_2\} \\), if their ground-truth labels have the relations: \\( \mathcal{O}(x)=\mathcal{O}(x_1) \\) and \\( \mathcal{O}(x)\not=\mathcal{O}(x_2) \\), then the misalignment means \\( \text{dist}(x,x_1) \geq \text{dist}(x, x_2) \\).[^fn2] 
@@ -30,7 +31,7 @@ The examples of this misalignment is not difficult to find, at least, in image c
 In the following two examples, the first column is \\( x \\), the second column is \\( x_2 \\), and the third column is \\( x_1 \\). 
 Although the examples in the second column do not have the same labels as the first/third clumns, but they are in the same \\( \ell_2 \\) ball.
 
-<img src="{{ site.url }}/figures/tramer2020fundamental-figure-3.png" alt="Examples of distance-oracle misalignment" style="width:600px;"/>
+<img src="{{ site.url }}/figures/tramer2020fundamental-figure-3.png" alt="Examples of distance-oracle misalignment" style="width:70%;"/>
 
 Unfortunately, this misalignment is not an easy issue to solve. As indicated by *Lemma 4* in their paper, finding an oracle-aligned distance function \\( \text{dist}(\cdot) \\) is equally challenging as finding the oracle \\( \mathcal{O} \\). 
 
