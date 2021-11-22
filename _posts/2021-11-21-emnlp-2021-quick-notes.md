@@ -37,8 +37,8 @@ Here are some quick notes for EMNLP 2021 papers, which focus on the evaluation o
 	- [[video](https://underline.io/events/192/sessions/7816/lecture/38012-compression,-transduction,-and-creation-a-unified-framework-for-evaluating-natural-language-generation)]
 	[[paper](https://aclanthology.org/2021.emnlp-main.599/)]
 	[[code](https://github.com/tanyuqian/ctc-gen-eval)]
-	- Categorize NLG tasks based on **information change** from input (X) to output (Y): (1) compression (X > Y), (2) transduction (X = Y), (3) creation (X < Y).
-	- Evaluate by measuring **information alignment** (between x, y, reference r, and context c) for different NLG tasks.
+	- Categorize NLG tasks based on **information change** from input (\\( X\\)) to output (\\(Y\\)): (1) compression (\\(X > Y\\)), (2) transduction (\\(X = Y\\)), (3) creation (\\(X < Y\\)).
+	- Evaluate by measuring **information alignment** (between \\(x\\), \\(y\\), reference \\(r\\), and context \\(c\\)) for different NLG tasks.
 3. Evaluating the Evaluation Metrics for Style Transfer: A Case Study in Multilingual Formality Transfer
 	- [[video](https://underline.io/events/192/sessions/7780/lecture/37990-evaluating-the-evaluation-metrics-for-style-transfer-a-case-study-in-multilingual-formality-transfer)]
 	[[paper](https://aclanthology.org/2021.emnlp-main.100/)]
@@ -62,7 +62,7 @@ Here are some quick notes for EMNLP 2021 papers, which focus on the evaluation o
 	[[paper](https://aclanthology.org/2021.emnlp-main.602/)]
 	[[code](https://github.com/asappresearch/sru)]
 	- Attention is NOT ALL we need, combine fast recurrence and attention: **attention helps recurrence avoid information & gradient propagation issue, and recurrence helps attention remove multi-head and relative position**.
-	- Parallelize the computation (linear project + attention) of state vector c_t, forget gate f_t and reset gate r_t, then recurrently compute hidden state h_t.
+	- Parallelize the computation (linear project + attention) of state vector \\(c_t\\), forget gate \\(f_t\\) and reset gate \\(r_t\\), then recurrently compute hidden state \\(h_t\\).
 	- Much faster training speed, comparable test perplexity, and similar amount of parameters with Transformer-XL.
 2. Few-Shot Text Generation with Natural Language Instructions
 	- [[video](https://underline.io/events/192/sessions/7767/lecture/37535-few-shot-text-generation-with-natural-language-instructions)]
@@ -156,7 +156,7 @@ Here are some quick notes for EMNLP 2021 papers, which focus on the evaluation o
 	[[code](https://github.com/mourga/contrastive-active-learning)]
 	- **Uncertainty**: the predictive uncertainty, e.g. least confident data.
 	- **Diversity**: the heterogeneity in feature space, e.g. clustering.
-	- **Contrastive examples**: datapoints that are close in the model feature space (K nearest neighbours), but the model produces different predictive likelihoods.
+	- **Contrastive examples**: datapoints that are close in the model feature space (\\(K\\)-nearest neighbours), but the model produces different predictive likelihoods.
 2. Certified Robustness to Programmable Transformations in LSTMs
 	- [[video](https://underline.io/events/192/sessions/7777/lecture/37276-certified-robustness-to-programmable-transformations-in-lstms)]
 	[[paper](https://aclanthology.org/2021.emnlp-main.82/)]
