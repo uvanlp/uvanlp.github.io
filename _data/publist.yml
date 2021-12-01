@@ -1,3 +1,11 @@
+- title: "Adversarial Training for Improving Model Robustness? Look at Both Prediction and Interpretation"
+  authors: Hanjie Chen, Yangfeng Ji
+  pub: AAAI
+  year: 2022
+  link:
+    url: ""
+    display: ""
+
 - title: "Perturbing Inputs for Fragile Interpretations in Deep Natural Language Processing"
   authors: Sanchit Sinha, Hanjie Chen, Arshdeep Sekhon, Yangfeng Ji, Yanjun Qi
   link:
