@@ -92,14 +92,14 @@
 - name: Madellyne Waugh
   photo: default.png
   url: ""
-  info: PhD student (Aug 2020 -- )
-  research: "" 
+  info: PhD student (Aug 2020 --, co-advised with Felix Lin)
+  research: On-device NLP 
   email: ""
 
 - name: Dane Williamson
   photo: dane-williamson.jpg
   url: ""
-  info: PhD student (Aug 2020 -- )
+  info: PhD student (Aug 2020 --, co-advised with Matt Dwyer)
   research: ""
   email: ""
 
