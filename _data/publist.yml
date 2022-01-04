@@ -3,7 +3,7 @@
   pub: AAAI
   year: 2022
   link:
-    url: files/chen2022adversarial.pdf
+    url: "{{ site.url }}/files/chen2022adversarial.pdf"
     display: pdf
 
 - title: "Perturbing Inputs for Fragile Interpretations in Deep Natural Language Processing"
