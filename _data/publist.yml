@@ -1,5 +1,6 @@
 - title: "FlowEval: A Consensus-Based Dialogue Evaluation Framework Using Segment Act Flows"
-  author: Jianqiao Zhao, Yanyang Li, Wanyu Du, Yangfeng Ji, Dong Yu, Michael R. Lyu, Liwei Wang
+  authors: Jianqiao Zhao, Yanyang Li, Wanyu Du, Yangfeng Ji, Dong Yu, Michael R. Lyu, Liwei Wang
+  pub: Preprint
   year: 2022
   link:
     url: "https://arxiv.org/abs/2202.06633"
@@ -7,10 +8,11 @@
 
 - title: "Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs"
   authors: Hanjie Chen, Yangfeng Ji
+  pub: Preprint
+  year: 2022
   link:
     url: "https://arxiv.org/abs/2201.03742"
     display: arXiv
-  year: 2022
 
 
 - title: "Adversarial Training for Improving Model Robustness? Look at Both Prediction and Interpretation"
@@ -71,6 +73,7 @@
   pub: INLG
   year: 2021
 
+
 - title: "Explaining Neural Network Predictions on Sentence Pairs via Learning Word-Group Masks"
   authors: Hanjie Chen, Song Feng, Jatin Ganhotra, Hui Wan, Chulaka Gunasekara, Sachindra Joshi and Yangfeng Ji
   link:
@@ -85,7 +88,7 @@
   link:
     url: https://arxiv.org/abs/2102.01672
     display: arXiv
-  pub: Preprint
+  pub: GEM Workshop
   year: 2021
   code:
     url: https://gem-benchmark.com/
