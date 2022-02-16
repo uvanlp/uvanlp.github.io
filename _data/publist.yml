@@ -1,3 +1,10 @@
+- title: "Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs"
+  authors: Hanjie Chen, Yangfeng Ji
+  link:
+    url: "https://arxiv.org/abs/2201.03742"
+    display: arXiv
+  year: 2022
+
 - title: "Adversarial Training for Improving Model Robustness? Look at Both Prediction and Interpretation"
   authors: Hanjie Chen, Yangfeng Ji
   pub: AAAI
@@ -5,6 +12,15 @@
   link:
     url: "https://uvanlp.org/files/chen2022adversarial.pdf"
     display: pdf
+
+
+- title: "Simple Text Detoxification by Identifying a Linear Toxic Subspace in Language Model Embeddings"
+  authors: Andrew Wang, Mohit Sudhakar, Yangfeng Ji
+  link:
+    url: "https://arxiv.org/abs/2112.08346"
+    display: arXiv
+  year: 2021
+
 
 - title: "Perturbing Inputs for Fragile Interpretations in Deep Natural Language Processing"
   authors: Sanchit Sinha, Hanjie Chen, Arshdeep Sekhon, Yangfeng Ji, Yanjun Qi
