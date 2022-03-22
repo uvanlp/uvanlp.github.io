@@ -1,3 +1,11 @@
+- title: "A Comparison of Explainable Artificial Intelligence Methods in the Phase Classification of Multi-Principal Element Alloys"
+  authors: Kyungtae Lee, Mukil V Ayyasamy, Yangfeng Ji, Prasanna V Balachandran
+  year:2022
+  pub: preprint
+  link:
+    url: "https://assets.researchsquare.com/files/rs-1389922/v1_covered.pdf?c=1645721527"
+    display: pdf
+
 - title: "FlowEval: A Consensus-Based Dialogue Evaluation Framework Using Segment Act Flows"
   authors: Jianqiao Zhao, Yanyang Li, Wanyu Du, Yangfeng Ji, Dong Yu, Michael R. Lyu, Liwei Wang
   pub: Preprint
@@ -26,6 +34,7 @@
 
 - title: "Simple Text Detoxification by Identifying a Linear Toxic Subspace in Language Model Embeddings"
   authors: Andrew Wang, Mohit Sudhakar, Yangfeng Ji
+  pub: Preprint
   link:
     url: "https://arxiv.org/abs/2112.08346"
     display: arXiv
