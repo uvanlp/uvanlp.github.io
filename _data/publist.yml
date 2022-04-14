@@ -1,3 +1,9 @@
+- title: "Pathologies of Pre-trained Language Models in Few-shot Fine-tuning"
+  authors: Hanjie Chen, Guoqing Zheng, Ahmed Hassan Awadallah, Yangfeng Ji
+  year: 2022
+  pub: "Workshop on Insights from Negative Results in NLP"
+
+
 - title: "Diverse Text Generation via Variational Encoder-Decoder Models with Gaussian Process Priors"
   authors: Wanyu Du, Jianqiao Zhao, Liwei Wang, Yangfeng Ji
   year: 2022
@@ -12,6 +18,7 @@
     url: "https://assets.researchsquare.com/files/rs-1389922/v1_covered.pdf?c=1645721527"
     display: pdf
 
+
 - title: "FlowEval: A Consensus-Based Dialogue Evaluation Framework Using Segment Act Flows"
   authors: Jianqiao Zhao, Yanyang Li, Wanyu Du, Yangfeng Ji, Dong Yu, Michael R. Lyu, Liwei Wang
   pub: Preprint
@@ -19,6 +26,7 @@
   link:
     url: "https://arxiv.org/abs/2202.06633"
     display: arXiv
+
 
 - title: "Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs"
   authors: Hanjie Chen, Yangfeng Ji
