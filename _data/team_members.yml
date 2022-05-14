@@ -1,3 +1,10 @@
+- name: Shahina Mohd Azam Ansari
+  photo: shahina-ansari.jpeg
+  url: ""
+  info: Master student (Jan 2022 -- )
+  research: On-device NLP
+  email: ""
+
 - name: Hanjie Chen
   photo: hanjie-chen.jpg
   url: http://www.cs.virginia.edu/~hc9mx/
@@ -12,12 +19,6 @@
   research: Robust NLP, sentence-level semantics
   email: yc4dx@virginia.edu
 
-- name: Anlan Du
-  photo: anlan-du.jpg
-  url: ""
-  info: Undergraduate student
-  research: ""
-  email: ""
 
 - name: Wanyu Du
   photo: wanyu-du.jpg
@@ -33,12 +34,6 @@
   research: Natural language processing, machine learning
   email: yangfeng@virginia.edu
 
-- name: Maya Kalidindi
-  photo: maya-kalidindi.jpg
-  url: ""
-  info: Undergraduate student
-  research: ""
-  email: ""
 
 - name: Wan Li
   photo: wan-li.png
@@ -47,12 +42,6 @@
   research: ""
   email: ""
 
-- name: Rohan Nair
-  photo: default.png
-  url: ""
-  info: Master student (Aug. 2020 -- )
-  research: ""
-  email: ""
 
 - name: Elizabeth Palmieri
   photo: default.png
@@ -68,12 +57,14 @@
   research: Interpretable machine learning for NLP
   email: aws9xm@virginia.edu
 
+
 - name: Stephanie Schoch
   photo: stephanie-schoch.jpg
   url: http://stephanieschoch.com
   info: PhD student (Aug 2019 -- )
   research: Text generation, text dataset analysis
   email: sns2gr@virginia.edu
+
 
 - name: Ruixuan Tang
   photo: ruixuan-tang.jpeg
@@ -82,6 +73,7 @@
   research: Interpretable machine learning for NLP
   email: rt5tb@virginia.edu
 
+
 - name: Andrew Wang
   photo: andrew-wang.jpg
   url: ""
@@ -89,12 +81,6 @@
   research: Representation learning, bias detection
   email: ""
 
-- name: Madellyne Waugh
-  photo: default.png
-  url: ""
-  info: PhD student (Aug 2020 --, co-advised with Felix Lin)
-  research: On-device NLP 
-  email: ""
 
 - name: Dane Williamson
   photo: dane-williamson.jpg
