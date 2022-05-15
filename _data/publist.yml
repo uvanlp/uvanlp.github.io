@@ -1,3 +1,9 @@
+- title: "White-box Testing of NLP models with Mask Neuron Coverage"
+  authors: Arshdeep Sekhon, Yangfeng Ji, Matthew B. Dwyer, Yanjun Qi
+  year: 2022
+  pub: NAACL
+  
+
 - title: "Pathologies of Pre-trained Language Models in Few-shot Fine-tuning"
   authors: Hanjie Chen, Guoqing Zheng, Ahmed Hassan Awadallah, Yangfeng Ji
   year: 2022
