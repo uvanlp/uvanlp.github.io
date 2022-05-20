@@ -1,3 +1,12 @@
+- title: "Self-augmented Data Selection for Few-shot Dialogue Generation"
+  authors: Wanyu Du, Hanjie Chen, Yangfeng Ji
+  year: 2022
+  pub: preprint
+  link:
+    url: https://arxiv.org/abs/2205.09661
+    display: arXiv
+
+
 - title: "White-box Testing of NLP models with Mask Neuron Coverage"
   authors: Arshdeep Sekhon, Yangfeng Ji, Matthew B. Dwyer, Yanjun Qi
   year: 2022
