@@ -1,9 +1,26 @@
+- name: Ruixuan Tang
+  photo: ruixuan-tang.jpeg
+  url: https://www.linkedin.com/in/ruixuan-ray-tang-070043b8
+  info: Graduate researcher
+  year: 2022
+  now: Ph.D. student @ University of Pittsburgh
+  
+
+- name: Andrew Wang
+  photo: andrew-wang.jpg
+  url: ""
+  info: Master Student (May 2021 -- )
+  year: 2022
+  now: ""
+
+
 - name: Aniruddha Dave
   photo: aniruddha-dave.jpg
   url: https://www.linkedin.com/in/aniruddhadave
   info: Graduate researcher
   year: 2021
   now: Software Development Engineer @ Amazon
+
 
 - name: Clara Na
   photo: clara-na.jpg
@@ -12,12 +29,14 @@
   year: 2021
   now: Ph.D. student @ CMU LTI
 
+
 - name: Mohit Sudhakar
   photo: mohit-sudhakar.jpg
   url: https://mohitsudhakar.github.io
   info: Graduate researcher
   year: 2021
   now: Software Engineer @ Google
+
 
 - name: Sanxing Chen
   photo: sanxing-chen.jpg
@@ -26,12 +45,14 @@
   year: 2020
   now: Applied Scientist @ Microsoft
 
+
 - name: Yuelan Shen
   photo: yuelan-shen.jpeg
   url: https://www.linkedin.com/in/yuelan-sheng-5b7974135
   info: Undergraduate researcher
   year: 2020
   now: Master student @ Yale CS
+  
 
 - name: Yaser Qazi
   photo: yaser-qazi.jpeg

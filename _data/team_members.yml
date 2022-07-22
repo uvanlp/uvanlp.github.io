@@ -5,12 +5,14 @@
   research: On-device NLP
   email: ""
 
+
 - name: Hanjie Chen
   photo: hanjie-chen.jpg
   url: http://www.cs.virginia.edu/~hc9mx/
   info: PhD student (Aug 2018 -- )
   research: Interpretable machine learning for NLP
   email: hanjie@virginia.edu
+
 
 - name: Hannah Chen
   photo: hannah-chen.jpg
@@ -26,6 +28,7 @@
   info: PhD student (Aug 2020 -- )
   research: Conversation modeling, few-shot learning
   email: wd5jq@virginia.edu
+
 
 - name: Yangfeng Ji
   photo: yangfeng-ji.png
@@ -50,6 +53,7 @@
   research: ""
   email: ""
 
+
 - name: Aidan San
   photo: aidan-san.jpg
   url: https://aidansan.github.io
@@ -64,22 +68,6 @@
   info: PhD student (Aug 2019 -- )
   research: Text generation, text dataset analysis
   email: sns2gr@virginia.edu
-
-
-- name: Ruixuan Tang
-  photo: ruixuan-tang.jpeg
-  url: https://www.linkedin.com/in/ruixuan-ray-tang-070043b8
-  info: Master student (Jan 2021 -- )
-  research: Interpretable machine learning for NLP
-  email: rt5tb@virginia.edu
-
-
-- name: Andrew Wang
-  photo: andrew-wang.jpg
-  url: ""
-  info: Master Student (May 2021 -- )
-  research: Representation learning, bias detection
-  email: ""
 
 
 - name: Dane Williamson
