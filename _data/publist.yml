@@ -1,3 +1,17 @@
+- title: "CS-Shapley: Class-wise Shapley Values for Data Valuation in Classification"
+  authors: Stephanie Schoch, Haifeng Xu, Yangfeng Ji
+  year: 2022
+  pub: NeurIPS
+
+
+- title: "Efficient Model Finetuning for Text Classification via Data Filtering"
+  authors: Xu Ouyang, Shahina Mohd Azam Ansari, Felix Xiaozhu Lin, Yangfeng Ji
+  year: 2022
+  pub: preprint
+  link:
+    url: https://arxiv.org/abs/2207.14386
+    display: arXiv
+
 - title: "Self-augmented Data Selection for Few-shot Dialogue Generation"
   authors: Wanyu Du, Hanjie Chen, Yangfeng Ji
   year: 2022
