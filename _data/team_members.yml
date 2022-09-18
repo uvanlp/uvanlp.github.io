@@ -38,6 +38,22 @@
   email: yangfeng@virginia.edu
 
 
+- name: Srinivasa Josyula
+  photo: default.png
+  url: ""
+  info: Undergraduate student (Aug 2022 -- )
+  research: ""
+  email: ""
+
+
+- name: Vidhi Katkoria
+  photo: vidhi-katkoria.jpg
+  url: ""
+  info: Master student (Jan 2022 -- )
+  research: Conversation modeling
+  email: ""
+
+
 - name: Elizabeth Palmieri
   photo: default.png
   url: ""
@@ -60,6 +76,22 @@
   info: PhD student (Aug 2019 -- )
   research: Data valuation
   email: sns2gr@virginia.edu
+
+
+- name: Gabriel Simmons
+  photo: default.png
+  url: ""
+  info: Master student (Jan 2022 -- )
+  research:
+  email: ""
+
+
+- name: Megan Vandre
+  photo: default.png
+  url: ""
+  info: Undergraduate student (Aug 2020 -- )
+  research: ""
+  email: ""
 
 
 - name: Dane Williamson
