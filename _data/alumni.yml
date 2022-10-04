@@ -1,3 +1,4 @@
+
 - name: Wan Li
   photo: wan-li.png
   url: ""
@@ -48,10 +49,10 @@
 
 - name: Sanxing Chen
   photo: sanxing-chen.jpg
-  url: http://www.cs.virginia.edu/~sc3hn/
+  url: https://sanxing.ai/
   info: Graduate researcher
   year: 2020
-  now: Applied Scientist @ Microsoft
+  now: Ph.D. student @ Duke Univ.
 
 
 - name: Yuelan Shen
