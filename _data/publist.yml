@@ -1,3 +1,21 @@
+
+- title: "Balanced Adversarial Training: Balancing Tradeoffs Between Oversensitivity and Undersensitivity in NLP Models"
+  authors: Hannah Chen, Yangfeng Ji, David Evans
+  pub: EMNLP
+  year: 2022
+
+- title: "FlowEval: A Consensus-Based Dialogue Evaluation Framework Using Segment Act Flows"
+  authors: Jianqiao Zhao, Yanyang Li, Wanyu Du, Yangfeng Ji, Dong Yu, Michael R. Lyu, Liwei Wang
+  pub: EMNLP
+  year: 2022
+
+
+- title: "Self-training with Two-phase Self-augmentation for Few-shot Dialogue Generation"
+  authors: Wanyu Du, Hanjie Chen, Yangfeng Ji
+  year: 2022
+  pub: Findings of EMNLP
+
+
 - title: "CS-Shapley: Class-wise Shapley Values for Data Valuation in Classification"
   authors: Stephanie Schoch, Haifeng Xu, Yangfeng Ji
   year: 2022
@@ -10,14 +28,6 @@
   pub: preprint
   link:
     url: https://arxiv.org/abs/2207.14386
-    display: arXiv
-
-- title: "Self-augmented Data Selection for Few-shot Dialogue Generation"
-  authors: Wanyu Du, Hanjie Chen, Yangfeng Ji
-  year: 2022
-  pub: preprint
-  link:
-    url: https://arxiv.org/abs/2205.09661
     display: arXiv
 
 
@@ -46,15 +56,6 @@
   link:
     url: "https://assets.researchsquare.com/files/rs-1389922/v1_covered.pdf?c=1645721527"
     display: pdf
-
-
-- title: "FlowEval: A Consensus-Based Dialogue Evaluation Framework Using Segment Act Flows"
-  authors: Jianqiao Zhao, Yanyang Li, Wanyu Du, Yangfeng Ji, Dong Yu, Michael R. Lyu, Liwei Wang
-  pub: Preprint
-  year: 2022
-  link:
-    url: "https://arxiv.org/abs/2202.06633"
-    display: arXiv
 
 
 - title: "Explaining Prediction Uncertainty of Pre-trained Language Models by Detecting Uncertain Words in Inputs"
