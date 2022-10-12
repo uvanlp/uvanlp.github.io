@@ -1,8 +1,17 @@
+- title: "REV: Information-Theoretic Evaluation of Free-Text Rationales"
+  authors: Hanjie Chen, Faeze Brahman, Xiang Ren, Yangfeng Ji, Yejin Choi, Swabha Swayamdipta
+  pub: Preprint
+  year: 2022
+  link:
+    url: https://arxiv.org/abs/2210.04982
+    display: arXiv
+  
 
 - title: "Balanced Adversarial Training: Balancing Tradeoffs Between Oversensitivity and Undersensitivity in NLP Models"
   authors: Hannah Chen, Yangfeng Ji, David Evans
   pub: EMNLP
   year: 2022
+
 
 - title: "FlowEval: A Consensus-Based Dialogue Evaluation Framework Using Segment Act Flows"
   authors: Jianqiao Zhao, Yanyang Li, Wanyu Du, Yangfeng Ji, Dong Yu, Michael R. Lyu, Liwei Wang
