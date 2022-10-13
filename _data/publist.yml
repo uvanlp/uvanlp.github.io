@@ -120,7 +120,7 @@
 
 - title: "SideControl: Controlled Open-domain Dialogue Generation via Additive Side Networks"
   authors: Wanyu Du, Yangfeng Ji
-  pub: EMNLP (Findings)
+  pub: The Findings of EMNLP
   year: 2021
   link:
     url: https://arxiv.org/abs/2109.01958
@@ -156,7 +156,7 @@
   link:
     url: https://arxiv.org/abs/2102.01672
     display: arXiv
-  pub: GEM Workshop
+  pub: The GEM Workshop
   year: 2021
   code:
     url: https://gem-benchmark.com/
@@ -168,7 +168,7 @@
   link:
     url: https://www.aclweb.org/anthology/2020.evalnlgeval-1.2/
     display: ACL Anthology
-  pub: Workshop on Evaluating NLG Evaluation at INLG
+  pub: The Workshop on Evaluating NLG Evaluation @ INLG
   year: 2020
 
 
@@ -201,7 +201,7 @@
   link:
     url: https://arxiv.org/abs/2011.01856
     display: arXiv
-  pub: EMNLP (Findings)
+  pub: Findings of EMNLP
   year: 2020
   code:
     url: https://github.com/hannahxchen/automatic-paraphrase-dataset-augmentation
