@@ -213,7 +213,7 @@
   link:
     url: https://arxiv.org/abs/2004.14174
     display: arXiv
-  pub: EMNLP (Findings)
+  pub: Findings of EMNLP
   year: 2020
   code:
     url: https://github.com/QData/TextAttack
