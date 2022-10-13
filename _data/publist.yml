@@ -1,3 +1,9 @@
+- title: "Identifying the Source of Vulnerability in Explanation Discrepancy: A Case Study in Neural Text Classification"
+  authors: Ruixuan Tang, Hanjie Chen, Yangfeng Ji
+  year: 2022
+  pub: The Blackbox NLP Workshop @ EMNLP
+
+
 - title: "REV: Information-Theoretic Evaluation of Free-Text Rationales"
   authors: Hanjie Chen, Faeze Brahman, Xiang Ren, Yangfeng Ji, Yejin Choi, Swabha Swayamdipta
   pub: Preprint
@@ -34,7 +40,7 @@
 - title: "Efficient Model Finetuning for Text Classification via Data Filtering"
   authors: Xu Ouyang, Shahina Mohd Azam Ansari, Felix Xiaozhu Lin, Yangfeng Ji
   year: 2022
-  pub: preprint
+  pub: Preprint
   link:
     url: https://arxiv.org/abs/2207.14386
     display: arXiv
