@@ -46,6 +46,15 @@
     display: arXiv
 
 
+- title: "PLAtE: A Large-scale Dataset for List Page Web Extraction"
+  authors: Aidan San, Jan Bakus, Colin Lockard, David Ciemiewicz, Yangfeng Ji, Sandeep Atluri, Kevin Small, Heba Elfardy
+  year: 2022
+  pub: Preprint
+  link:
+    url: https://arxiv.org/abs/2205.12386
+    display: arXiv
+
+
 - title: "White-box Testing of NLP models with Mask Neuron Coverage"
   authors: Arshdeep Sekhon, Yangfeng Ji, Matthew B. Dwyer, Yanjun Qi
   year: 2022
