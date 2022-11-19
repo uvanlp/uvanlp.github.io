@@ -1,3 +1,16 @@
+
+- title: "Improving Interpretability via Explicit Word Interaction Graph Layer"
+  authors: Arshdeep Sekhon, Hanjie Chen, Aman Shrivastava, Zhe Wang, Yangfeng Ji, Yanjun Qi
+  year: 2023
+  pub: AAAI
+
+
+- title: "Explaining Predictive Uncertainty by Looking Back at Model Explanations"
+  authors: Hanjie Chen, Wanyu Du, Yangfeng Ji
+  year: 2023
+  pub: UDM Workshop @ AAAI 2023
+
+
 - title: "Identifying the Source of Vulnerability in Explanation Discrepancy: A Case Study in Neural Text Classification"
   authors: Ruixuan Tang, Hanjie Chen, Yangfeng Ji
   year: 2022
