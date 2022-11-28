@@ -25,7 +25,7 @@ What the existing methods have in common, however, is how the value function und
 
 <p>
 	<center>
-		<img src="{{ site.url }}/figures/2022-11-28-barplot_updated.png" width="50%" align="center">
+		<img src="{{ site.url }}/figures/2022-11-28-barplot_updated.png" width="40%" align="center">
 	</center>
 </p>
 
