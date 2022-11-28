@@ -12,7 +12,7 @@ label: "data-valuation"
 In machine learning settings, there are notable benefits of understanding how individual training instances impact a learning model. For example, through identifying and filtering points that harm the model (e.g. noisy or mislabeled instances), the performance on a subsequent model retraining may increase. We could additionally seek to augment the data by identifying new data instances that are similar to training instances that were highly beneficial to the model. In this setting, we can refer to how an instance impacts a performance metric of choice as the “contribution” of the data point.
 
 
-The prudent question to ask then becomes one of how to measure this contribution. While we could simply measure the model performance when trained with vs. without the training instance (i.e. Leave-One-Out from [Cook, 1977](https://www.jstor.org/stable/1268249)), this method has certain drawbacks as it does not satisfy several properties desirable for measuring data contributions and does not always perform as expected in practice. [Ghorbani et al. (2019)](https://proceedings.mlr.press/v97/ghorbani19c.html) exemplified this with a concrete example: if we are measuring contribution to a KNN classifier and have two copies of each data point, removal of one point would not change the classifier performance, and each data point would receive a contribution score of 0. 
+The prudent question to ask then becomes one of how to measure this contribution. While we could simply measure the model performance when trained with vs. without the training instance (i.e. Leave-One-Out from [(Cook, 1977)](https://www.jstor.org/stable/1268249)), this method has certain drawbacks as it does not satisfy several properties desirable for measuring data contributions and does not always perform as expected in practice. [Ghorbani et al. (2019)](https://proceedings.mlr.press/v97/ghorbani19c.html) exemplified this with a concrete example: if we are measuring contribution to a KNN classifier and have two copies of each data point, removal of one point would not change the classifier performance, and each data point would receive a contribution score of 0. 
 
 
 Shapley values have been proposed for use in this context and have proven to be effective for measuring data contributions, and the associated applications. Shapley values, from cooperative game theory, satisfy desirable fairness guarantees due to their underlying axiomatic basis. For a value function \\( v(\cdot) \\), the Shapley value \\( \phi_i(T,A,v) \\), for any data point \\( i \\) is defined as:
@@ -25,7 +25,7 @@ What the existing methods have in common, however, is how the value function und
 
 <p>
 <img src="{{ site.url }}/figures/2022-11-28-barplot_updated.png" width="50%" align="center">
-<p>
+</p>
 
 
 While we provide more details in the paper, in short, this example shows two training points from the real world CIFAR10 datasets that belong to the same class, cause the same overall development accuracy change, yet data point \\( i \\) increases in class accuracy while data point \\( j \\) decreases in-class accuracy. Intuitively, data points that harm their own classes may be mislabeled or otherwise noisy.
@@ -34,7 +34,9 @@ While we provide more details in the paper, in short, this example shows two tra
 To address this, we define a value function that uses in-class accuracy as a measure of contribution and out-of-class accuracy as a weighting, or discounting, factor. While we demonstrate several desirable properties of this function in the paper, we can illustrate this function in the following contour plot
 
 <p>
+<center>
 <img src="{{ site.url }}/figures/2022-11-28-fig-cd-contourplot.png" width="50%" align="center">
+</center>
 </p>
 
 
