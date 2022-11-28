@@ -17,7 +17,7 @@ The prudent question to ask then becomes one of how to measure this contribution
 
 Shapley values have been proposed for use in this context and have proven to be effective for measuring data contributions, and the associated applications. Shapley values, from cooperative game theory, satisfy desirable fairness guarantees due to their underlying axiomatic basis. For a value function \\( v(\cdot) \\), the Shapley value \\( \phi_i(T,A,v) \\), for any data point \\( i \\) is defined as:
 
-\\( \phi_i(T,A,v) = \sum_{S\subseteq T\backslash\{i\}} \frac{v(S\cup \{i\}) - v(S)}{n-1 \choose |S|} \\)
+$\phi_i(T,A,v) = \sum_{S\subseteq T\backslash\{i\}} \frac{v(S\cup \{i\}) - v(S)}{n-1 \choose |S|}$
 
 Much of the work in applying Shapley values to data contribution measurement, or data valuation, has sought to develop approximation techniques to mitigate the computational cost of true Shapley computation. Specifically, true Shapley value computation is exponential with respect to the number of data points, and as such, entails an exponential number of model retrainings. One such approximation method is the Truncated Monte Carlo method proposed by [Ghorbani et al. (2019)](https://proceedings.mlr.press/v97/ghorbani19c.html), which we adopt in this work. Additional approximation methods can be found listed in the paper.
 	
@@ -35,7 +35,7 @@ To address this, we define a value function that uses in-class accuracy as a mea
 
 <p>
 <center>
-<img src="{{ site.url }}/figures/2022-11-28-fig-cd-contourplot.png" width="50%" align="center">
+<img src="{{ site.url }}/figures/2022-11-28-fig-cd-contourplot.png" width="40%" align="center">
 </center>
 </p>
 
