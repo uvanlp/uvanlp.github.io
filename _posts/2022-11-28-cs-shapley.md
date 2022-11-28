@@ -24,7 +24,9 @@ Much of the work in applying Shapley values to data contribution measurement, or
 What the existing methods have in common, however, is how the value function underlying Shapley computation is defined. More specifically, the value function is defined over the entire development set (in practice, development accuracy). In this work, we challenge the implicit assumption that full development set metrics are ideal for Shapley computation on classification datasets. Our intuition was that defining the value function in this manner may have limited ability to differentiate helpful or harmful training instances. We provide an example in the figure below.
 
 <p>
-<img src="{{ site.url }}/figures/2022-11-28-barplot_updated.png" width="50%" align="center">
+	<center>
+		<img src="{{ site.url }}/figures/2022-11-28-barplot_updated.png" width="50%" align="center">
+	</center>
 </p>
 
 
@@ -34,9 +36,9 @@ While we provide more details in the paper, in short, this example shows two tra
 To address this, we define a value function that uses in-class accuracy as a measure of contribution and out-of-class accuracy as a weighting, or discounting, factor. While we demonstrate several desirable properties of this function in the paper, we can illustrate this function in the following contour plot
 
 <p>
-<center>
-<img src="{{ site.url }}/figures/2022-11-28-fig-cd-contourplot.png" width="40%" align="center">
-</center>
+	<center>
+		<img src="{{ site.url }}/figures/2022-11-28-fig-cd-contourplot.png" width="40%" align="center">
+	</center>
 </p>
 
 
