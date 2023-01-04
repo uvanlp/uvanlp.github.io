@@ -1,7 +1,7 @@
 - title: "Does Differential Privacy Impact Bias in Pretrained NLP Models?"
   authors: Md Khairul Islam, Andrew Wang, Jieyu Zhao, Yangfeng Ji, Tianhao Wang
   year: 2023
-  pub: PPAI Workshop @ AAAI 2023
+  pub: PPAI Workshop @ AAAI
 
 
 - title: "Improving Interpretability via Explicit Word Interaction Graph Layer"
@@ -13,7 +13,7 @@
 - title: "Explaining Predictive Uncertainty by Looking Back at Model Explanations"
   authors: Hanjie Chen, Wanyu Du, Yangfeng Ji
   year: 2023
-  pub: UDM Workshop @ AAAI 2023
+  pub: UDM Workshop @ AAAI
 
 
 - title: "Identifying the Source of Vulnerability in Explanation Discrepancy: A Case Study in Neural Text Classification"
