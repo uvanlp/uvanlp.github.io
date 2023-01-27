@@ -14,4 +14,4 @@ permalink: /software/
 
 ## Natural Language Processing
 
-- [DPLP](https://github.com/jiyfeng/DPLP): A RST discourse parser
+- [RSTParser](https://github.com/jiyfeng/RSTParser): A shift-reduce based RST discourse parser.
