@@ -15,7 +15,7 @@ permalink: /software/
 - [RSTParser](https://github.com/jiyfeng/RSTParser): A shift-reduce based RST discourse parser.
 
 
-## Code for Papers
+## Code from Research Projects
 
 - [HEDGE](https://github.com/UVa-NLP/HEDGE): for [Generating Hierarchical Explanations on Text Classification via Feature Interaction Detection]()
 - [VMASK](https://github.com/UVa-NLP/VMASK): for [Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers]()
