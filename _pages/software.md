@@ -17,7 +17,7 @@ permalink: /software/
    - A shift-reduce based RST discourse parser.
 
 
-## Code from Research Projects
+### Code from Research Projects
 
 1. [HEDGE](https://github.com/UVa-NLP/HEDGE) 
    - for [Generating Hierarchical Explanations on Text Classification via Feature Interaction Detection]()
