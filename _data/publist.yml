@@ -1,3 +1,12 @@
+- title: "Pre-training Transformers for Knowledge Graph Completion"
+  authors: Sanxing Chen, Hao Cheng, Xiaodong Liu, Jian Jiao, Yangfeng Ji, Jianfeng Gao
+  year: 2023
+  pub: Preprint
+  link:
+    url: https://arxiv.org/abs/2303.15682
+    display: arXiv
+
+
 - title: "Does Differential Privacy Impact Bias in Pretrained NLP Models?"
   authors: Md Khairul Islam, Andrew Wang, Jieyu Zhao, Yangfeng Ji, Tianhao Wang
   year: 2023
