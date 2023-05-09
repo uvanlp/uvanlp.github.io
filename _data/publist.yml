@@ -1,3 +1,12 @@
+- title: "PLAtE: A Large-scale Dataset for List Page Web Extraction"
+  authors: Aidan San, Jan Bakus, Colin Lockard, David Ciemiewicz, Yangfeng Ji, Sandeep Atluri, Kevin Small, Heba Elfardy
+  year: 2023
+  pub: ACL (Industry Track)
+  link:
+    url: https://arxiv.org/abs/2205.12386
+    display: arXiv
+
+
 - title: "REV: Information-Theoretic Evaluation of Free-Text Rationales"
   authors: Hanjie Chen, Faeze Brahman, Xiang Ren, Yangfeng Ji, Yejin Choi and Swabha Swayamdipta
   year: 2023
@@ -45,14 +54,6 @@
   year: 2022
   pub: The Blackbox NLP Workshop @ EMNLP
 
-
-- title: "REV: Information-Theoretic Evaluation of Free-Text Rationales"
-  authors: Hanjie Chen, Faeze Brahman, Xiang Ren, Yangfeng Ji, Yejin Choi, Swabha Swayamdipta
-  pub: Preprint
-  year: 2022
-  link:
-    url: https://arxiv.org/abs/2210.04982
-    display: arXiv
   
 
 - title: "Balanced Adversarial Training: Balancing Tradeoffs Between Oversensitivity and Undersensitivity in NLP Models"
@@ -77,15 +78,6 @@
   authors: Stephanie Schoch, Haifeng Xu, Yangfeng Ji
   year: 2022
   pub: NeurIPS
-
-
-- title: "PLAtE: A Large-scale Dataset for List Page Web Extraction"
-  authors: Aidan San, Jan Bakus, Colin Lockard, David Ciemiewicz, Yangfeng Ji, Sandeep Atluri, Kevin Small, Heba Elfardy
-  year: 2022
-  pub: Preprint
-  link:
-    url: https://arxiv.org/abs/2205.12386
-    display: arXiv
 
 
 - title: "White-box Testing of NLP models with Mask Neuron Coverage"
