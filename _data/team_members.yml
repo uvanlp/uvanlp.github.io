@@ -1,8 +1,8 @@
 
 - name: Hanjie Chen
-  photo: hanjie-chen.jpg
+  photo: hanjie-chen.jpeg
   url: http://www.cs.virginia.edu/~hc9mx/
-  info: PhD student (Aug 2018 -- )
+  info: PhD student (Aug 2018 -- May 2023)
   research: Explainable machine learning for NLP
   email: hanjie@virginia.edu
 
@@ -44,14 +44,6 @@
   url: ""
   info: Master student (Jan 2022 -- )
   research: Conversation modeling
-  email: ""
-
-
-- name: Elizabeth Palmieri
-  photo: elizabeth-palmieri.jpeg
-  url: ""
-  info: Master student (Aug. 2021 -- )
-  research: ""
   email: ""
 
 
