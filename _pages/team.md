@@ -95,7 +95,7 @@ permalink: /team/
   <h4><a href="{{member.url}}">{{ member.name }}</a></h4>
   <i>{{ member.info }}</i><br>
   Graduated in {{ member.year }} <br>
-  Now: {{ member.now }}
+  {{ member.now }}
   
   <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}

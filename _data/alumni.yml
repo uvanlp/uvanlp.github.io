@@ -1,15 +1,46 @@
+- name: Hanjie Chen
+  photo: hanjie-chen.jpeg
+  url: http://www.cs.virginia.edu/~hc9mx/
+  info: PhD Student
+  year: 2023
+  now: Postdoc Researcher @ JHU (2023 -- 2024); Assistant Professor @ Rice CS (2024 --)
+
+
+- name: Srinivasa Josyula
+  photo: srinivasa-josyula.png
+  url: ""
+  info: Undergraduate student
+  year: 2023
+  now: Graduate student @ UPenn (Aug 2023 --)
+
+
+- name: Vidhi Katkoria
+  photo: vidhi-katkoria.jpg
+  url: ""
+  info: Master student
+  year: 2023
+  now: ""
+
+
+- name: Gabriel Simmons
+  photo: gabriel-simmons.jpg
+  url: ""
+  info: Master student
+  research: ""
+  now: ""
+
 
 - name: Elizabeth Palmieri
   photo: elizabeth-palmieri.jpeg
   url: ""
-  info: Graduate researcher
+  info: Master student
   year: 2022
   now: WillowTree
 
 - name: Wan Li
   photo: wan-li.png
   url: ""
-  info: Undergraduate researcher
+  info: Undergraduate student
   year: 2022
   now: Graduate student @ UVa
 
@@ -17,7 +48,7 @@
 - name: Ruixuan Tang
   photo: ruixuan-tang.jpeg
   url: https://www.linkedin.com/in/ruixuan-ray-tang-070043b8
-  info: Graduate researcher
+  info: Graduate student
   year: 2022
   now: Ph.D. student @ University of Pittsburgh
   
@@ -25,7 +56,7 @@
 - name: Andrew Wang
   photo: andrew-wang.jpg
   url: ""
-  info: Master Student (May 2021 -- )
+  info: Graduate student
   year: 2022
   now: Ph.D. student @ JHU
 
@@ -33,7 +64,7 @@
 - name: Aniruddha Dave
   photo: aniruddha-dave.jpg
   url: https://www.linkedin.com/in/aniruddhadave
-  info: Graduate researcher
+  info: Master student
   year: 2021
   now: Software Development Engineer @ Amazon
 
@@ -41,7 +72,7 @@
 - name: Clara Na
   photo: clara-na.jpg
   url: https://clarasna.com/
-  info: Undergraduate researcher
+  info: Undergraduate student
   year: 2021
   now: Ph.D. student @ CMU LTI
 
@@ -49,7 +80,7 @@
 - name: Mohit Sudhakar
   photo: mohit-sudhakar.jpg
   url: https://mohitsudhakar.github.io
-  info: Graduate researcher
+  info: Master student
   year: 2021
   now: Software Engineer @ Google
 
@@ -57,7 +88,7 @@
 - name: Sanxing Chen
   photo: sanxing-chen.jpg
   url: https://sanxing.ai/
-  info: Graduate researcher
+  info: Master student
   year: 2020
   now: Ph.D. student @ Duke Univ.
 
@@ -65,7 +96,7 @@
 - name: Yuelan Shen
   photo: yuelan-shen.jpeg
   url: https://www.linkedin.com/in/yuelan-sheng-5b7974135
-  info: Undergraduate researcher
+  info: Undergraduate student
   year: 2020
   now: Master student @ Yale CS
   
@@ -73,7 +104,7 @@
 - name: Yaser Qazi
   photo: yaser-qazi.jpeg
   url: https://www.linkedin.com/in/yaserqazi
-  info: Undergraduate researcher
+  info: Undergraduate student
   year: 2019
   now: Software Engineer @ Meta
 

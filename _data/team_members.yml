@@ -1,12 +1,4 @@
 
-- name: Hanjie Chen
-  photo: hanjie-chen.jpeg
-  url: http://www.cs.virginia.edu/~hc9mx/
-  info: PhD student (Aug 2018 -- May 2023)
-  research: Explainable machine learning for NLP
-  email: hanjie@virginia.edu
-
-
 - name: Hannah Chen
   photo: hannah-chen.jpg
   url: https://hannahxchen.github.io
@@ -31,22 +23,6 @@
   email: yangfeng@virginia.edu
 
 
-- name: Srinivasa Josyula
-  photo: srinivasa-josyula.png
-  url: ""
-  info: Undergraduate student (Aug 2022 -- )
-  research: ""
-  email: ""
-
-
-- name: Vidhi Katkoria
-  photo: vidhi-katkoria.jpg
-  url: ""
-  info: Master student (Jan 2022 -- )
-  research: Conversation modeling
-  email: ""
-
-
 - name: Aidan San
   photo: aidan-san.jpg
   url: https://aidansan.github.io
@@ -61,14 +37,6 @@
   info: PhD student (Aug 2019 -- )
   research: Data valuation
   email: sns2gr@virginia.edu
-
-
-- name: Gabriel Simmons
-  photo: gabriel-simmons.jpg
-  url: ""
-  info: Master student (Jan 2022 -- )
-  research:
-  email: ""
 
 
 - name: Dane Williamson
