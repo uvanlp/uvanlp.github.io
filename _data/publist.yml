@@ -1,3 +1,9 @@
+- title: "Data Selection for Fine-tuning Large Language Models Using Transferred Shapley Values"
+  authors: Stephanie Schoch, Ritwick Mishra, Yangfeng Ji
+  year: 2023
+  pub: ACL-SRW
+
+
 - title: "PLAtE: A Large-scale Dataset for List Page Web Extraction"
   authors: Aidan San, Jan Bakus, Colin Lockard, David Ciemiewicz, Yangfeng Ji, Sandeep Atluri, Kevin Small, Heba Elfardy
   year: 2023
