@@ -1,3 +1,12 @@
+- title: "Secure and Effective Data Appraisal for Machine Learning"
+  authors: Xu Ouyang, Changhong Yang, Felix Xiaozhu Lin, Yangfeng Ji
+  year: 2023
+  pub: Preprint
+  link:
+    url: https://arxiv.org/abs/2310.02373
+    display: arXiv
+
+
 - title: "Data Selection for Fine-tuning Large Language Models Using Transferred Shapley Values"
   authors: Stephanie Schoch, Ritwick Mishra, Yangfeng Ji
   year: 2023
