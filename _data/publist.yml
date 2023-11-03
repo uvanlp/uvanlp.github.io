@@ -1,3 +1,11 @@
+- title: "Blending Reward Functions via Few Expert Demonstrations for Faithful and Accurate Knowledge-Grounded Dialogue Generation"
+  authors: Wanyu Du, Yangfeng Ji
+  pub: Preprint
+  link:
+    url: https://arxiv.org/abs/2311.00953
+    display: arXiv
+
+
 - title: "Secure and Effective Data Appraisal for Machine Learning"
   authors: Xu Ouyang, Changhong Yang, Felix Xiaozhu Lin, Yangfeng Ji
   year: 2023
