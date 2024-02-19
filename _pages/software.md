@@ -11,9 +11,11 @@ permalink: /software/
 ### Python Package
 
 
-1. [Valda](https://uvanlp.org/valda/) 
+1. [LLM Tuning](https://uvanlp.org/llm-tuning/)
+   - A Python package of parameter-efficient LLM fine-tuning.
+2. [Valda](https://uvanlp.org/valda/) 
    - A Python package of data valuation in machine learning.
-2. [RSTParser](https://github.com/jiyfeng/RSTParser)
+3. [RSTParser](https://github.com/jiyfeng/RSTParser)
    - A shift-reduce based RST discourse parser.
 
 
