@@ -1,5 +1,12 @@
+- title: Addressing Both Statistical and Causal Gender Fairness in NLP Models
+  authors: Hannah Chen, Yangfeng Ji, David Evans
+  year: 2024
+  pub: NAACL Findings
+
+
 - title: "Blending Reward Functions via Few Expert Demonstrations for Faithful and Accurate Knowledge-Grounded Dialogue Generation"
   authors: Wanyu Du, Yangfeng Ji
+  year: 2023
   pub: Preprint
   link:
     url: https://arxiv.org/abs/2311.00953
