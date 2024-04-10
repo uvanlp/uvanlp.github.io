@@ -3,7 +3,7 @@
   photo: hannah-chen.jpg
   url: https://hannahxchen.github.io
   info: PhD student (June 2019 --, co-advised with David Evans)
-  research: Robust NLP
+  research: Robustness and fairness in NLP
   email: yc4dx@virginia.edu
 
 
@@ -19,7 +19,7 @@
   photo: caroline-gihlstorf.jpeg
   url: ""
   info: PhD student (Jan 2024 -- )
-  research: ""
+  research: LLM fine-tuning
   email: ""
 
 
@@ -35,7 +35,7 @@
   photo: elizabeth-palmieri.jpeg
   url: ""
   info: PhD student (Aug 2023 -- )
-  research: ""
+  research: text summarization
   email: ""
 
 
@@ -43,7 +43,7 @@
   photo: aidan-san.jpg
   url: https://aidansan.github.io
   info: PhD student (Aug 2019 -- )
-  research: NLP for Education
+  research: NLP for education
   email: aws9xm@virginia.edu
 
 
@@ -67,6 +67,6 @@
   photo: dane-williamson.jpg
   url: ""
   info: PhD student (Aug 2020 --, co-advised with Matt Dwyer)
-  research: ""
+  research: Interpretable machine learning
   email: ""
 
