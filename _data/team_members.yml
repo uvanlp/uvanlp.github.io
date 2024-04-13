@@ -2,7 +2,7 @@
 - name: Hannah Chen
   photo: hannah-chen.jpg
   url: https://hannahxchen.github.io
-  info: PhD student (June 2019 --, co-advised with David Evans)
+  info: CS PhD student (June 2019 --, co-advised with David Evans)
   research: Robustness and fairness in NLP
   email: yc4dx@virginia.edu
 
@@ -10,7 +10,7 @@
 - name: Wanyu Du
   photo: wanyu-du.jpg
   url: https://wyu-du.github.io
-  info: PhD student (Aug 2020 -- )
+  info: CS PhD student (Aug 2020 -- )
   research: Conversation modeling, few-shot learning
   email: wd5jq@virginia.edu
 
@@ -18,7 +18,7 @@
 - name: Caroline Gihlstorf
   photo: caroline-gihlstorf.jpeg
   url: ""
-  info: PhD student (Jan 2024 -- )
+  info: CS PhD student (Jan 2024 -- )
   research: LLM fine-tuning
   email: ""
 
@@ -26,7 +26,7 @@
 - name: Saahith Janapati
   photo: saahith-janapati.png
   url: ""
-  info: Undergraduate student (Jan 2024 -- )
+  info: CS Undergraduate student (Jan 2024 -- )
   research: Mechanistic interpretability of LLMs
   email: ""
 
@@ -42,7 +42,7 @@
 - name: Elizabeth Palmieri
   photo: elizabeth-palmieri.jpeg
   url: ""
-  info: PhD student (Aug 2023 -- )
+  info: CS PhD student (Aug 2023 -- )
   research: text summarization
   email: ""
 
@@ -50,7 +50,7 @@
 - name: Aidan San
   photo: aidan-san.jpg
   url: https://aidansan.github.io
-  info: PhD student (Aug 2019 -- )
+  info: CS PhD student (Aug 2019 -- )
   research: NLP for education
   email: aws9xm@virginia.edu
 
@@ -58,7 +58,7 @@
 - name: Stephanie Schoch
   photo: stephanie-schoch.jpg
   url: http://stephanieschoch.com
-  info: PhD student (Aug 2019 -- )
+  info: CS PhD student (Aug 2019 -- )
   research: Data valuation
   email: sns2gr@virginia.edu
 
@@ -66,7 +66,7 @@
 - name: Zhengguang Wang
   photo: zhengguang-wang.png
   url: ""
-  info: Undergraduate student (June 2023 -- )
+  info: CS Undergraduate student (June 2023 -- )
   research: ""
   email: ""
 
@@ -74,7 +74,7 @@
 - name: Dane Williamson
   photo: dane-williamson.jpg
   url: ""
-  info: PhD student (Aug 2020 --, co-advised with Matt Dwyer)
+  info: CS PhD student (Aug 2020 --, co-advised with Matt Dwyer)
   research: Interpretable machine learning
   email: ""
 
