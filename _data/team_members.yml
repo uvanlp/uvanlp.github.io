@@ -2,7 +2,7 @@
 - name: Hannah Chen
   photo: hannah-chen.jpg
   url: https://hannahxchen.github.io
-  info: CS PhD student (June 2019 --, co-advised with David Evans)
+  info: CS PhD student (Aug 2019 --, co-advised with David Evans)
   research: Robustness and fairness in NLP
   email: yc4dx@virginia.edu
 
@@ -18,7 +18,7 @@
 - name: Caroline Gihlstorf
   photo: caroline-gihlstorf.jpeg
   url: ""
-  info: CS PhD student (Jan 2024 -- )
+  info: CS PhD student (Aug 2023 -- )
   research: LLM fine-tuning
   email: ""
 
@@ -51,9 +51,16 @@
   photo: elizabeth-palmieri.jpeg
   url: ""
   info: CS PhD student (Aug 2023 -- )
-  research: text summarization
+  research: Text summarization
   email: ""
 
+
+- name: Yixuan Ren
+  photo: yixuan-ren.jpg
+  url: https://www.linkedin.com/in/yixuan-ren-657292291/
+  info: CS Master student (Aug 2023 -- )
+  research: Text summarization
+  email: ""
 
 - name: Aidan San
   photo: aidan-san.jpg
