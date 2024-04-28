@@ -23,6 +23,22 @@
   email: ""
 
 
+- name: Daniel Hieber
+  photo: daniel-hieber.jpeg
+  url: ""
+  info: CS Master student
+  research: LLM fine-tuning
+  email: ""
+
+
+- name: Bebe Holloway
+  photo: bebe-holloway.jpeg
+  url: ""
+  info: CS Undergraduate student
+  research: Bias in LLMs
+  email: ""
+
+
 - name: Saahith Janapati
   photo: saahith-janapati.png
   url: ""
@@ -37,6 +53,14 @@
   info: Assistant professor (Aug 2018 -- )
   research: Natural language processing, machine learning
   email: yangfeng@virginia.edu
+
+
+- name: Kasra Lekan
+  photo: kasra-lekan.jpeg
+  url: https://kasralekan.com/
+  info: CS Master student
+  research: Explainable NLP in LLMs
+  email: ""
 
 
 - name: Karolina Naranjo-Velasco
@@ -58,7 +82,7 @@
 - name: Yixuan Ren
   photo: yixuan-ren.jpg
   url: https://www.linkedin.com/in/yixuan-ren-657292291/
-  info: CS Master student (Aug 2023 -- )
+  info: CS Master student 
   research: Text summarization
   email: ""
 
