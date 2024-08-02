@@ -1,9 +1,49 @@
+- name: Wanyu Du
+  photo: wanyu-du.jpg
+  url: https://wyu-du.github.io
+  info: Ph.D.
+  year: 2024
+  now: Applied Scientist @ Amazon
+
+
+- name: Bebe Holloway
+  photo: bebe-holloway.jpeg
+  url: ""
+  info: Undergraduate
+  year: 2024
+  now: ""
+
+
+- name: Daniel Hieber
+  photo: daniel-hieber.jpeg
+  url: ""
+  info: Graduate
+  year: 2024
+  now: ""
+
+
+- name: Kasra Lekan
+  photo: kasra-lekan.jpeg
+  url: https://kasralekan.com/
+  info: Graduate
+  year: 2024
+  now: ""
+
+
+- name: Zhengguang Wang
+  photo: zhengguang-wang.png
+  url: ""
+  info: Undergraduate
+  year: 2024
+  now: ""
+  
+
 - name: Hanjie Chen
   photo: hanjie-chen.jpeg
   url: https://hanjiechen.github.io/
   info: Ph.D.
   year: 2023
-  now: Postdoc Researcher @ JHU (2023 -- 2024); Assistant Professor @ Rice CS (2024 --)
+  now: Assistant Professor @ Rice CS (2024 --), Postdoc @ JHU (2023)
 
 
 - name: Srinivasa Josyula

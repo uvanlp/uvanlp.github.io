@@ -7,35 +7,11 @@
   email: yc4dx@virginia.edu
 
 
-- name: Wanyu Du
-  photo: wanyu-du.jpg
-  url: https://wyu-du.github.io
-  info: CS PhD student (Aug 2020 -- )
-  research: Conversation modeling, few-shot learning
-  email: wd5jq@virginia.edu
-
-
 - name: Caroline Gihlstorf
   photo: caroline-gihlstorf.jpeg
   url: ""
   info: CS PhD student (Aug 2023 -- )
   research: LLM fine-tuning
-  email: ""
-
-
-- name: Daniel Hieber
-  photo: daniel-hieber.jpeg
-  url: ""
-  info: CS Master student
-  research: LLM fine-tuning
-  email: ""
-
-
-- name: Bebe Holloway
-  photo: bebe-holloway.jpeg
-  url: ""
-  info: CS Undergraduate student
-  research: Bias in LLMs
   email: ""
 
 
@@ -53,14 +29,6 @@
   info: Assistant professor (Aug 2018 -- )
   research: Natural language processing, machine learning
   email: yangfeng@virginia.edu
-
-
-- name: Kasra Lekan
-  photo: kasra-lekan.jpeg
-  url: https://kasralekan.com/
-  info: CS Master student
-  research: Explainable NLP in LLMs
-  email: ""
 
 
 - name: Karolina Naranjo-Velasco
@@ -100,14 +68,6 @@
   info: CS PhD student (Aug 2019 -- )
   research: Data valuation
   email: sns2gr@virginia.edu
-
-
-- name: Zhengguang Wang
-  photo: zhengguang-wang.png
-  url: ""
-  info: CS Undergraduate student (June 2023 -- )
-  research: ""
-  email: ""
 
 
 - name: Dane Williamson
