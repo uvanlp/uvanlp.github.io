@@ -1,4 +1,5 @@
-- title: The Mismeasure of Man and Models: Evaluating Allocational Harms in Large Language Models
+
+- title: "The Mismeasure of Man and Models: Evaluating Allocational Harms in Large Language Models"
   authors: Hannah Chen, Yangfeng Ji, David Evans
   year: 2024
   pub: preprint
@@ -7,7 +8,7 @@
     display: arXiv
 
 
-- title: Improve Temporal Awareness of LLMs for Sequential Recommendation
+- title: "Improve Temporal Awareness of LLMs for Sequential Recommendation"
   authors: Zhendong Chu, Zichao Wang, Ruiyi Zhang, Yangfeng Ji, Hongning Wang, Tong Sun
   year: 2024
   pub: ICL @ ICML
@@ -16,7 +17,7 @@
     display: arXiv
 
 
-- title: Addressing Both Statistical and Causal Gender Fairness in NLP Models
+- title: "Addressing Both Statistical and Causal Gender Fairness in NLP Models"
   authors: Hannah Chen, Yangfeng Ji, David Evans
   year: 2024
   pub: NAACL Findings
