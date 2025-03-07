@@ -1,16 +1,16 @@
-- title: Monte Carlo Sampling for Analyzing In-Context Examples
+- title: "Monte Carlo Sampling for Analyzing In-Context Examples"
   authors: Stephanie Schoch, Yangfeng Ji
   year: 2025
   pub: Workshop on Insights from Negative Results in NLP
   
 
-- title: Do Prevalent Bias Metrics Capture Allocational Harms from LLMs?
+- title: "Do Prevalent Bias Metrics Capture Allocational Harms from LLMs?"
   authors: Hannah Cyberey, Yangfeng Ji, David Evans
   year: 2025
   pub: Workshop on Insights from Negative Results in NLP
   
 
-- title: Sensing and Steering Stereotypes: Extracting and Applying Gender Representation Vectors in LLMs
+- title: "Sensing and Steering Stereotypes: Extracting and Applying Gender Representation Vectors in LLMs"
   authors: Hannah Cyberey, Yangfeng Ji, David Evans
   year: 2025
   pub: preprint
@@ -19,7 +19,7 @@
     display: arXiv
 
 
-- title: In-Context Learning (and Unlearning) of Length Biases
+- title: "In-Context Learning (and Unlearning) of Length Biases"
   authors: Stephanie Schoch, Yangfeng Ji
   year: 2025
   pub: NAACL
