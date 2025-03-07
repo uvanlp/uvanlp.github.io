@@ -1,5 +1,5 @@
 
-- name: Hannah Chen
+- name: Hannah Cyberey
   photo: hannah-chen.jpg
   url: https://hannahxchen.github.io
   info: CS PhD student (Aug 2019 --, co-advised with David Evans)
@@ -12,14 +12,6 @@
   url: ""
   info: CS PhD student (Aug 2023 -- )
   research: LLM fine-tuning
-  email: ""
-
-
-- name: Saahith Janapati
-  photo: saahith-janapati.png
-  url: ""
-  info: CS Undergraduate student (Jan 2024 -- )
-  research: Mechanistic interpretability of LLMs
   email: ""
 
 
@@ -53,6 +45,7 @@
   info: CS Master student 
   research: Text summarization
   email: ""
+
 
 - name: Aidan San
   photo: aidan-san.jpg
