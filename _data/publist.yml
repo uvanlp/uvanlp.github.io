@@ -1,3 +1,22 @@
+
+- title: "Syntactic Blind Spots: How Misalignment Leads to LLMs' Mathematical Errors"
+  authors: Dane Williamson, Yangfeng Ji, Matthew Dwyer
+  year: 2025
+  pub: MathNLP Workshop @ EMNLP
+
+
+- title: "The Good, the Bad, and the Debatable: A Survey on the Impacts of Data for In-Context Learning"
+  authors: Stephanie Schoch, Yangfeng Ji
+  year: 2025
+  pub: EMNLP
+
+
+- title: "Unsupervised Concept Vector Extraction for Bias Control in LLMs"
+  authors: Hannah Cyberey, Yangfeng Ji, David Evans
+  year: 2025
+  pub: EMNLP
+
+
 - title: "IrrMap: A Large-Scale Comprehensive Dataset for Irrigation Method Mapping"
   authors: Nibir Chandra Mandal, Oishee Bintey Hoque, Abhijin Adiga, Samarth Swarup, Mandy L Wilson, Lu Feng, Yangfeng Ji, Miaomiao Zhang, Geoffrey Fox, Madhav Marathe
   year: 2025
