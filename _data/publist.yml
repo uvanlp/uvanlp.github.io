@@ -1,4 +1,10 @@
 
+- title: "Improving Aspect-Based Summarization via Contrastive Learning with Anchored Negative Examples"
+  authors: Elizabeth Palmieri, Yangfeng Ji
+  year: 2025
+  pub: The 5th New Frontiers in Summarization Workshop @ EMNLP
+
+
 - title: "Syntactic Blind Spots: How Misalignment Leads to LLMs' Mathematical Errors"
   authors: Dane Williamson, Yangfeng Ji, Matthew Dwyer
   year: 2025
