@@ -83,7 +83,7 @@ permalink: /team/
 
 <!--------------------------------------->
 
-## Ph.D. Students
+### Ph.D. Students
 
 
 {% assign number_printed = 0 %}
@@ -142,7 +142,7 @@ permalink: /team/
 
 
 <!------------------------------------->
-## Master Students
+### Master Students
 
 
 {% assign number_printed = 0 %}
@@ -201,7 +201,7 @@ permalink: /team/
 
 
 <!------------------------------------->
-## Undergraduate Students
+### Undergraduate Students
 
 
 {% assign number_printed = 0 %}
