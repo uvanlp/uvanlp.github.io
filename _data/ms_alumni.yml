@@ -70,9 +70,27 @@
   now: Ph.D. student @ JHU
 
 
+- name: Aniruddha Dave
+  photo: aniruddha-dave.jpg
+  url: https://www.linkedin.com/in/aniruddhadave
+  info: Graduate
+  year: 2021
+  now: Software Engineer @ Amazon
+
+
+- name: Mohit Sudhakar
+  photo: mohit-sudhakar.jpg
+  url: https://mohitsudhakar.github.io
+  info: Graduate
+  year: 2021
+  now: Software Engineer @ Google
+
+
 - name: Sanxing Chen
   photo: sanxing-chen.jpg
   url: https://sanxing.ai/
   info: Graduate
   year: 2020
   now: Ph.D. student @ Duke Univ.
+
+
