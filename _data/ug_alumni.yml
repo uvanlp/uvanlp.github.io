@@ -1,0 +1,58 @@
+
+
+
+- name: Bebe Holloway
+  photo: bebe-holloway.jpeg
+  url: ""
+  info: Undergraduate
+  year: 2024
+  now: Capital One
+
+
+- name: Zhengguang Wang
+  photo: zhengguang-wang.png
+  url: ""
+  info: Undergraduate
+  year: 2024
+  now: Graduate Student @ JHU
+  
+
+- name: Srinivasa Josyula
+  photo: srinivasa-josyula.png
+  url: https://www.linkedin.com/in/sriram-josyula/
+  info: Undergraduate
+  year: 2023
+  now: Graduate student @ UPenn (Aug 2023 --)
+
+
+- name: Wan Li
+  photo: wan-li.png
+  url: https://www.linkedin.com/in/wan-li-va/
+  info: B.S.
+  year: 2022
+  now: Software Engineer @ Amazon
+
+
+- name: Clara Na
+  photo: clara-na.jpg
+  url: https://clarasna.com/
+  info: B.S.
+  year: 2021
+  now: Ph.D. student @ CMU LTI
+
+
+- name: Yuelan Shen
+  photo: yuelan-shen.jpeg
+  url: https://www.linkedin.com/in/yuelan-sheng-5b7974135
+  info: B.S.
+  year: 2020
+  now: Master student @ Yale CS
+  
+
+- name: Yaser Qazi
+  photo: yaser-qazi.jpeg
+  url: https://www.linkedin.com/in/yaserqazi
+  info: B.S.
+  year: 2019
+  now: Software Engineer @ Meta
+
