@@ -1,25 +1,32 @@
 
-
 - name: Caroline Gihlstorf
   photo: caroline-gihlstorf.jpeg
   url: ""
-  info: CS PhD student (Aug 2023 -- )
-  research: LLM fine-tuning
+  info: CS PhD Student (Aug 2023 -- )
+  research: LLM Evaluation
   email: ""
 
 
 - name: Yangfeng Ji
   photo: yangfeng-ji.png
   url: http://yangfengji.net
-  info: Associate professor
+  info: Associate Professor
   research: Natural language processing, machine learning
   email: yangfeng@virginia.edu
+
+
+- name: Rajiv Koliwad
+  photo: rajiv-koliwad.jpg
+  url: ""
+  info: CS Undergraduate Student 
+  research: Text-to-Code Generation
+  email: ""
 
 
 - name: Karolina Naranjo-Velasco
   photo: karolina-naranjo-velasco.png
   url: https://www.linkedin.com/in/karolinaranjo/
-  info: DS PhD student
+  info: DS PhD Student
   research: Legal NLP
   email: ""
 
@@ -27,31 +34,39 @@
 - name: Elizabeth Palmieri
   photo: elizabeth-palmieri.jpeg
   url: ""
-  info: CS PhD student (Aug 2023 -- )
-  research: Text summarization
+  info: CS PhD Student (Aug 2023 -- )
+  research: Text Summarization, News Analysis
   email: ""
+
+
+- name: Sidhya Pathak
+  photo: sidhya-pathak.png
+  url: ""
+  info: CS Undergraduate Student 
+  research: Data Valuation for LLMs
+  email:
 
 
 - name: Aidan San
   photo: aidan-san.jpg
   url: https://aidansan.github.io
-  info: CS PhD student (Aug 2019 -- )
-  research: NLP for education
+  info: CS PhD Student (Aug 2019 -- )
+  research: NLP for Education
   email: aws9xm@virginia.edu
 
 
 - name: Stephanie Schoch
   photo: stephanie-schoch.jpg
   url: http://stephanieschoch.com
-  info: CS PhD student (Aug 2019 -- )
-  research: Data valuation
+  info: CS PhD Student (Aug 2019 -- )
+  research: Data Valuation for LLMs
   email: sns2gr@virginia.edu
 
 
 - name: Dane Williamson
   photo: dane-williamson.jpg
   url: ""
-  info: CS PhD student (Aug 2020 --, co-advised with Matt Dwyer)
-  research: Interpretable machine learning
+  info: CS PhD Student (Aug 2020 -- )
+  research: LLM Reasoning, LLM Evaluation
   email: ""
 
