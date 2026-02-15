@@ -1,4 +1,16 @@
 
+- title: "Consistency of LLMs to Comparative Statements in Mathematical Reasoning Tasks"
+  authors: Aidan San, Daniel Juyoung Son, Xiaodong Liu, Yangfeng Ji
+  year: 2026
+  pub: LREC
+  
+
+- title: "White-Box Sensitivity Auditing with Steering Vectors"
+  authors: Hannah Cyberey, Yangfeng Ji, David Evans
+  year: 2026
+  pub: arXiv
+
+
 - title: "Improving Aspect-Based Summarization via Contrastive Learning with Anchored Negative Examples"
   authors: Elizabeth Palmieri, Yangfeng Ji
   year: 2025
