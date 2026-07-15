@@ -15,14 +15,6 @@
   email: yangfeng@virginia.edu
 
 
-- name: Rajiv Koliwad
-  photo: rajiv-koliwad.jpg
-  url: ""
-  info: CS Undergraduate Student 
-  research: Text-to-Code Generation
-  email: ""
-
-
 - name: Karolina Naranjo-Velasco
   photo: karolina-naranjo-velasco.png
   url: https://www.linkedin.com/in/karolinaranjo/
@@ -47,26 +39,18 @@
   email:
 
 
-- name: Aidan San
-  photo: aidan-san.jpg
-  url: https://aidansan.github.io
-  info: CS PhD Student (Aug 2019 -- )
-  research: NLP for Education
-  email: aws9xm@virginia.edu
-
-
-- name: Stephanie Schoch
-  photo: stephanie-schoch.jpg
-  url: http://stephanieschoch.com
-  info: CS PhD Student (Aug 2019 -- )
-  research: Data Valuation for LLMs
-  email: sns2gr@virginia.edu
-
-
 - name: Dane Williamson
   photo: dane-williamson.jpg
   url: ""
   info: CS PhD Student (Aug 2020 -- )
   research: LLM Reasoning, LLM Evaluation
+  email: ""
+
+
+- name: Kaicheng Xue
+  photo: default.png
+  url: ""
+  info: CS Graduate Student (Jan 2026 -- )
+  research: LLM Interpretability
   email: ""
 

@@ -1,3 +1,20 @@
+
+- name: Stephanie Schoch
+  photo: stephanie-schoch.jpg
+  url: http://stephanieschoch.com
+  info: CS PhD Student (Aug 2019 -- )
+  year: 2026
+  now: Tenure-track Assistant Professor @ William & Mary (2026 --)
+
+
+- name: Aidan San
+  photo: aidan-san.jpg
+  url: https://aidansan.github.io
+  info: Ph.D.
+  year: 2026
+  now: Teaching-track Assistant Professor @ UChicago Data Science (2026 --)
+
+
 - name: Hannah Cyberey
   photo: hannah-chen.jpg
   url: https://hannahxchen.github.io
@@ -19,7 +36,7 @@
   url: https://hanjiechen.github.io/
   info: Ph.D.
   year: 2023
-  now: Assistant Professor @ Rice CS (2024 --), Postdoc @ JHU (2023)
+  now: Tenure-track Assistant Professor @ Rice CS (2024 --), Postdoc @ JHU (2023)
 
 
 
