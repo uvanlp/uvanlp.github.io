@@ -39,6 +39,14 @@
   email:
 
 
+- name: Pranshuta Shukla
+  photo: default.png
+  url: ""
+  info: CS Graduate Student
+  research: LLM bias and fairness
+  email: ""
+
+
 - name: Dane Williamson
   photo: dane-williamson.jpg
   url: ""
@@ -50,7 +58,7 @@
 - name: Kaicheng Xue
   photo: default.png
   url: ""
-  info: CS Graduate Student (Jan 2026 -- )
+  info: CS Graduate Student
   research: LLM Interpretability
   email: ""
 
