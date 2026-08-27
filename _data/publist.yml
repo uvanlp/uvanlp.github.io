@@ -1,4 +1,15 @@
 
+- title: "PrAM: Offline Checkpoint Selection for Post-Hoc Training Data Attribution"
+  authors: Stephanie Schoch, Sidhya Pathak, Yangfeng Ji
+  year: 2026
+  pub: EMNLP Findings
+
+
+- title: "Evaluating the Effectiveness of Language Models for Discrete Mathematics Grading"
+  authors: Aidan San, John R. Hott, Yangfeng Ji
+  year: 2026
+  pub: SIGCSE
+
 
 - title: "White-Box Sensitivity Auditing with Steering Vectors"
   authors: Hannah Cyberey, Yangfeng Ji, David Evans
