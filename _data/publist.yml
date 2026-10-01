@@ -1,4 +1,13 @@
 
+- title: "CASE: Contrastive Activation for Class-Sensitive Explanations"
+  authors: Dane Williamson, Yangfeng Ji, Matt Dwyer
+  year: 2026
+  pub: Machine Learning Journal
+  link:
+    url: https://link.springer.com/article/10.1007/s10994-026-07169-w
+    display: Article
+
+
 - title: "PrAM: Offline Checkpoint Selection for Post-Hoc Training Data Attribution"
   authors: Stephanie Schoch, Sidhya Pathak, Yangfeng Ji
   year: 2026
