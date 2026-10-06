@@ -18,24 +18,36 @@
   authors: Aidan San, John R. Hott, Yangfeng Ji
   year: 2026
   pub: SIGCSE
+  link:
+    display: Article
+    url: https://sigcsevirtual2026.acm.org/details/sigcse-virtual-2026-papers/3/Evaluating-the-Effectiveness-of-Language-Models-for-Discrete-Mathematics-Grading
 
 
 - title: "Engagement in Practice: Building an Interdisciplinary Community Around Large Language Models in Engineering Education"
   authors: Meiqin Li, Yangfeng Ji, Prasanna V Balachandran, Sara Riggs
   year: 2026
   pub: 2026 ASEE Annual Conference & Exposition
+  link:
+    display: Article
+    url: https://peer.asee.org/engagement-in-practice-building-an-interdisciplinary-community-around-large-language-models-in-engineering-education
 
 
 - title: "Evaluating the Impact of an Interdisciplinary Workshop on Large Language Models: Advancing Community Engagement and AI Literacy in Engineering Education"
   authors: Meiqin Li, Yangfeng Ji, Prasanna V Balachandran, Sara Riggs, Andrea Arulanand, Adrina Khan
   year: 2026
   pub: 2026 ASEE Annual Conference & Exposition
+  link:
+    display: Article
+    url: https://peer.asee.org/evaluating-the-impact-of-an-interdisciplinary-workshop-on-large-language-models-advancing-community-engagement-and-ai-literacy-in-engineering-education
 
 
 - title: "White-Box Sensitivity Auditing with Steering Vectors"
   authors: Hannah Cyberey, Yangfeng Ji, David Evans
   year: 2026
-  pub: TACL
+  pub: TMLR
+  link:
+    display: arXiv
+    url: https://arxiv.org/abs/2601.16398
   
 
 - title: "Expert-Grounded Automatic Prompt Engineering for Extracting Lattice Constants of High-Entropy Alloys from Scientific Publications Using Large Language Models"
@@ -51,30 +63,45 @@
   authors: Aidan San, Daniel Juyoung Son, Xiaodong Liu, Yangfeng Ji
   year: 2026
   pub: LREC
+  link:
+    display: Article
+    url: https://aclanthology.org/2026.lrec-1.351/
 
 
 - title: "Improving Aspect-Based Summarization via Contrastive Learning with Anchored Negative Examples"
   authors: Elizabeth Palmieri, Yangfeng Ji
   year: 2025
   pub: The 5th New Frontiers in Summarization Workshop @ EMNLP
+  link:
+    display: Article
+    url: https://aclanthology.org/2025.newsum-main.5/
 
 
 - title: "Syntactic Blind Spots: How Misalignment Leads to LLMs' Mathematical Errors"
   authors: Dane Williamson, Yangfeng Ji, Matthew Dwyer
   year: 2025
   pub: MathNLP Workshop @ EMNLP
+  link:
+    display: Article
+    url: https://aclanthology.org/2025.mathnlp-main.1/
 
 
 - title: "The Good, the Bad, and the Debatable: A Survey on the Impacts of Data for In-Context Learning"
   authors: Stephanie Schoch, Yangfeng Ji
   year: 2025
   pub: EMNLP
+  link:
+    display: Article
+    url: https://aclanthology.org/2025.emnlp-main.1514/
 
 
 - title: "Unsupervised Concept Vector Extraction for Bias Control in LLMs"
   authors: Hannah Cyberey, Yangfeng Ji, David Evans
   year: 2025
   pub: EMNLP
+  link:
+    display: Article
+    url: https://aclanthology.org/2025.emnlp-main.1439/
 
 
 - title: "IrrMap: A Large-Scale Comprehensive Dataset for Irrigation Method Mapping"
@@ -87,24 +114,36 @@
   authors: Yidan Sun, Qin Chao, Yangfeng Ji, Boyang Li
   year: 2025
   pub: 2025 IEEE International Conference on Multimedia and Expo (ICME)
+  link:
+    display: Article
+    url: https://arxiv.org/abs/2203.05711
 
 
 - title: "A Comparative Study of Learning Paradigms in Large Language Models via Intrinsic Dimension"
   authors: Saahith Janapati, Yangfeng Ji
   year: 2025
   pub: Rep4NLP Workshop @ NAACL
+  link:
+    display: Article
+    url: https://aclanthology.org/2025.repl4nlp-1.5/
 
 
 - title: "Monte Carlo Sampling for Analyzing In-Context Examples"
   authors: Stephanie Schoch, Yangfeng Ji
   year: 2025
   pub: Workshop on Insights from Negative Results in NLP @ NAACL 2025
+  link:
+    display: Article
+    url: https://aclanthology.org/2025.insights-1.7/
   
 
 - title: "Do Prevalent Bias Metrics Capture Allocational Harms from LLMs?"
   authors: Hannah Cyberey, Yangfeng Ji, David Evans
   year: 2025
   pub: Workshop on Insights from Negative Results in NLP @ NAACL 2025
+  link:
+    display: Article
+    url: https://aclanthology.org/2025.insights-1.5/
   
 
 - title: "Sensing and Steering Stereotypes: Extracting and Applying Gender Representation Vectors in LLMs"
