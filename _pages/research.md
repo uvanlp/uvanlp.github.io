@@ -10,7 +10,7 @@ permalink: /research/
 
 Our research develops methods for understanding, evaluating, and improving language technologies. Recent work spans large language models, data-centric machine learning, model interpretability, and language generation, often in collaboration with researchers in other fields.
 
-### Large language models: behavior, reasoning, and evaluation
+### 1. Large language models: behavior, reasoning, and evaluation
 
 We study how language models use examples, represent information, and make mistakes, with an eye toward evaluations that reveal more than a single score. Recent work investigates consistency in mathematical reasoning, syntactic causes of mathematical errors, and the influence of data in in-context learning. We also examine how model behavior affects practical settings such as automated grading.
 
@@ -20,7 +20,7 @@ We study how language models use examples, represent information, and make mista
 - [In-Context Learning (and Unlearning) of Length Biases](https://aclanthology.org/2025.naacl-long.390/) (2025)
 - [Evaluating the Effectiveness of Language Models for Discrete Mathematics Grading](https://sigcsevirtual2026.acm.org/details/sigcse-virtual-2026-papers/3/Evaluating-the-Effectiveness-of-Language-Models-for-Discrete-Mathematics-Grading) (2026)
 
-### Interpretability, fairness, and model behavior
+### 2. Interpretability, fairness, and model behavior
 
 We design methods to understand what models rely on and how their internal representations can be analyzed or controlled. This includes explanations of model predictions, sensitivity and bias audits, and techniques for examining or steering concepts in language models.
 
@@ -30,7 +30,7 @@ We design methods to understand what models rely on and how their internal repre
 - [Addressing Both Statistical and Causal Gender Fairness in NLP Models](https://aclanthology.org/2024.findings-naacl.38/) (2024)
 - [REV: Information-Theoretic Evaluation of Free-Text Rationales](https://aclanthology.org/2023.acl-long.112/) (2023)
 
-### Data-centric machine learning
+### 3. Data-centric machine learning
 
 Data quality, selection, and attribution are central to reliable model development. We study how to identify useful training examples, measure their contributions, and make data valuation practical, private, and robust—including for large language model training.
 
@@ -40,7 +40,7 @@ Data quality, selection, and attribution are central to reliable model developme
 - [Efficient NLP Model Finetuning via Data Filtering](https://arxiv.org/abs/2207.14386) (2023)
 - [Secure and Effective Data Appraisal for Machine Learning](https://arxiv.org/abs/2310.02373) (2023)
 
-### Language generation, summarization, and datasets
+### 4. Language generation, summarization, and datasets
 
 We build and evaluate systems and resources for generating and understanding language. Recent projects explore aspect-based summarization, knowledge-grounded dialogue, and datasets that support story understanding and structured information extraction.
 
@@ -50,3 +50,22 @@ We build and evaluate systems and resources for generating and understanding lan
 - [Blending Reward Functions via Few Expert Demonstrations for Faithful and Accurate Knowledge-Grounded Dialogue Generation](https://arxiv.org/abs/2311.00953) (2023)
 
 Our recent work also applies language technologies in interdisciplinary settings, including scientific literature analysis, engineering education, and large-scale environmental data.
+
+### Research support
+
+We gratefully acknowledge support from:
+
+<div class="research-sponsors" aria-label="Research sponsors">
+  <a class="research-sponsor" href="https://www.nsf.gov/" aria-label="U.S. National Science Foundation">
+    <img src="https://www.nsf.gov/themes/custom/nsf_theme/logo-200x200.png" alt="U.S. National Science Foundation">
+  </a>
+  <a class="research-sponsor" href="https://www.nih.gov/" aria-label="National Institutes of Health">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/NIH_logo.svg" alt="National Institutes of Health">
+  </a>
+  <a class="research-sponsor" href="https://www.amazon.com/" aria-label="Amazon">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Amazon_2024.svg" alt="Amazon">
+  </a>
+  <a class="research-sponsor research-sponsor-nairr" href="https://nairrpilot.org/" aria-label="NAIRR Pilot">
+    <span aria-hidden="true">NAIRR <span>Pilot</span></span>
+  </a>
+</div>
