@@ -17,7 +17,7 @@ We study how language models use examples, represent information, and make mista
 - [Consistency of LLMs to Comparative Statements in Mathematical Reasoning Tasks](https://aclanthology.org/2026.lrec-1.351/) (2026)
 - [Syntactic Blind Spots: How Misalignment Leads to LLMs' Mathematical Errors](https://aclanthology.org/2025.mathnlp-main.1/) (2025)
 - [The Good, the Bad, and the Debatable: A Survey on the Impacts of Data for In-Context Learning](https://aclanthology.org/2025.emnlp-main.1514/) (2025)
-- In-Context Learning (and Unlearning) of Length Biases (2025)
+- [In-Context Learning (and Unlearning) of Length Biases](https://aclanthology.org/2025.naacl-long.390/) (2025)
 - [Evaluating the Effectiveness of Language Models for Discrete Mathematics Grading](https://sigcsevirtual2026.acm.org/details/sigcse-virtual-2026-papers/3/Evaluating-the-Effectiveness-of-Language-Models-for-Discrete-Mathematics-Grading) (2026)
 
 ### Interpretability, fairness, and model behavior
