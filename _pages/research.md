@@ -1,47 +1,52 @@
 ---
 title: "UVa ILP - Research"
 layout: textlay
-excerpt: "UVa ILP -- Research"
+excerpt: "Research at the UVa Information and Language Processing Lab"
 sitemap: false
 permalink: /research/
 ---
 
-# Research Projects
+# Research
 
+Our research develops methods for understanding, evaluating, and improving language technologies. Recent work spans large language models, data-centric machine learning, model interpretability, and language generation, often in collaboration with researchers in other fields.
 
-### 1. Model Interpretability and Robustness
+### Large language models: behavior, reasoning, and evaluation
 
-In addition to prediction accuracy, interpretability and robustness should also be considered as two intrinsic properties. The research in this lab focuses on 
+We study how language models use examples, represent information, and make mistakes, with an eye toward evaluations that reveal more than a single score. Recent work investigates consistency in mathematical reasoning, syntactic causes of mathematical errors, and the influence of data in in-context learning. We also examine how model behavior affects practical settings such as automated grading.
 
-- providing rich forms of interpretations (e.g., [Chen et al., 2020](https://www.aclweb.org/anthology/2020.acl-main.494/); [Chen et al., 2021](https://www.aclweb.org/anthology/2021.naacl-main.306/));
-- improving model interpretability and robustness (e.g., [Chen and Ji, 2020](https://www.aclweb.org/anthology/2020.emnlp-main.347/)).
+- [Consistency of LLMs to Comparative Statements in Mathematical Reasoning Tasks](https://aclanthology.org/2026.lrec-1.351/) (2026)
+- [Syntactic Blind Spots: How Misalignment Leads to LLMs' Mathematical Errors](https://aclanthology.org/2025.mathnlp-main.1/) (2025)
+- [The Good, the Bad, and the Debatable: A Survey on the Impacts of Data for In-Context Learning](https://aclanthology.org/2025.emnlp-main.1514/) (2025)
+- In-Context Learning (and Unlearning) of Length Biases (2025)
+- [Evaluating the Effectiveness of Language Models for Discrete Mathematics Grading](https://sigcsevirtual2026.acm.org/details/sigcse-virtual-2026-papers/3/Evaluating-the-Effectiveness-of-Language-Models-for-Discrete-Mathematics-Grading) (2026)
 
-### 2. Text Generation and Conversation Modeling
+### Interpretability, fairness, and model behavior
 
-Automatically generating texts is a fundamental challenge in natural language processing and connected to many real-world applications, such as conversation modeling and story generation.
-To address this challenge, we are working on 
+We design methods to understand what models rely on and how their internal representations can be analyzed or controlled. This includes explanations of model predictions, sensitivity and bias audits, and techniques for examining or steering concepts in language models.
 
-- building neural network models to incorporate contextual information (e.g., [Clark et al., 2018](https://www.aclweb.org/anthology/N18-1204/));
-- developing algorithms for effectively training neural network models (e.g., [Du and Ji, 2019](https://www.aclweb.org/anthology/D19-1619/), [Du and Ji, 2021](https://arxiv.org/abs/2109.01958)); and
-- reconsider the whole evaluation pipeline (e.g., [Schoch et al. 2020](https://www.aclweb.org/anthology/2020.evalnlgeval-1.2/)).
+- [CASE: Contrastive Activation for Class-Sensitive Explanations](https://link.springer.com/article/10.1007/s10994-026-07169-w) (2026)
+- [White-Box Sensitivity Auditing with Steering Vectors](https://arxiv.org/abs/2601.16398) (2026)
+- [Unsupervised Concept Vector Extraction for Bias Control in LLMs](https://aclanthology.org/2025.emnlp-main.1439/) (2025)
+- [Addressing Both Statistical and Causal Gender Fairness in NLP Models](https://aclanthology.org/2024.findings-naacl.38/) (2024)
+- [REV: Information-Theoretic Evaluation of Free-Text Rationales](https://aclanthology.org/2023.acl-long.112/) (2023)
 
-### 3. Text Dataset Analysis
+### Data-centric machine learning
 
-We are interested in various issues of data-related problems in data-driven NLP research
+Data quality, selection, and attribution are central to reliable model development. We study how to identify useful training examples, measure their contributions, and make data valuation practical, private, and robust—including for large language model training.
 
-- learning with noisy labels (e.g., [Chen et al. 2020](https://aclanthology.org/2020.findings-emnlp.426/));
-- data selection to improve learning (e.g., [Schoch et al. 2021](https://arxiv.org/abs/2108.07871))
+- [PrAM: Offline Checkpoint Selection for Post-Hoc Training Data Attribution](https://aclanthology.org/2026.findings-emnlp.1521/) (2026)
+- [Selectformer: Private and Practical Data Selection for Transformers](https://arxiv.org/abs/2310.02373) (2025)
+- [Data Selection for Fine-tuning Large Language Models Using Transferred Shapley Values](https://aclanthology.org/2023.acl-srw.37/) (2023)
+- [Efficient NLP Model Finetuning via Data Filtering](https://arxiv.org/abs/2207.14386) (2023)
+- [Secure and Effective Data Appraisal for Machine Learning](https://arxiv.org/abs/2310.02373) (2023)
 
-<!-- Research project 1 -->
- 
-<!-- ## Research -->
- 
-<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/research-1.jpg){: style="width: 300px; float: right; border: 10px"} -->
+### Language generation, summarization, and datasets
 
-<!-- Research project 2 -->
+We build and evaluate systems and resources for generating and understanding language. Recent projects explore aspect-based summarization, knowledge-grounded dialogue, and datasets that support story understanding and structured information extraction.
 
-<!-- ## Research -->
+- [Improving Aspect-Based Summarization via Contrastive Learning with Anchored Negative Examples](https://aclanthology.org/2025.newsum-main.5/) (2025)
+- [Synopses of Movie Narratives: a Video-Language Dataset for Story Understanding](https://arxiv.org/abs/2203.05711) (2025)
+- [PLAtE: A Large-scale Dataset for List Page Web Extraction](https://arxiv.org/abs/2205.12386) (2023)
+- [Blending Reward Functions via Few Expert Demonstrations for Faithful and Accurate Knowledge-Grounded Dialogue Generation](https://arxiv.org/abs/2311.00953) (2023)
 
-<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/research-2.jpg){: style="width: 300px; float: left; border: 10px"} -->
-
-<br><br>
+Our recent work also applies language technologies in interdisciplinary settings, including scientific literature analysis, engineering education, and large-scale environmental data.

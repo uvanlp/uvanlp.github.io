@@ -12,8 +12,7 @@
       } catch (error) {
         console.warn('Theme preference could not be read from local storage.', error);
       }
-      var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-      var theme = savedTheme === 'dark' || savedTheme === 'light' ? savedTheme : (prefersDark ? 'dark' : 'light');
+      var theme = savedTheme === 'dark' || savedTheme === 'light' ? savedTheme : 'dark';
       document.documentElement.dataset.theme = theme;
     })();
   </script>
