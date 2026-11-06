@@ -1,24 +1,44 @@
 ---
 layout: default
 ---
-<html>
-  <body>
-    <div id="homeid" class="col-sm-8">
-      <h1>Information and Language Processing<br> (ILP) Lab</h1>
-      <!--- 
-      <p style="text-align:center;">
-	<img src="images/UVa-ILP-2021-Fall.png" style="width:90%; float:center" alt="UVa ILP Lab">
-      </p>
-      ---> 
-      <p>
-	{{ content }}
-      </p>
+<main class="home-page">
+  <section class="home-hero">
+    <p class="home-eyebrow">University of Virginia <span aria-hidden="true">/</span> Computer Science</p>
+    <h1>Information and Language Processing <span>Lab</span></h1>
+    <p class="home-hero-copy">We study language, intelligence, and the ways people and machines understand the world.</p>
+    <a class="home-hero-link" href="{{ site.baseurl }}/research">Explore our research <span aria-hidden="true">→</span></a>
+  </section>
 
-    </div>
+  <div class="home-content">
+    <section id="homeid" class="home-main" aria-labelledby="home-intro-title">
+      <p class="home-section-label">Welcome to ILP</p>
+      <h2 id="home-intro-title">Language and intelligence, together.</h2>
+      <div class="home-intro">{{ content }}</div>
 
-  
-    <div id="newsid" class="col-sm-4" >
-	{% include news.html %}
-    </div>
-  </body>
-</html>
+      <div class="home-cards" aria-label="Explore the group">
+        <a class="home-card" href="{{ site.baseurl }}/team">
+          <span class="home-card-number">01</span>
+          <h3>Our people</h3>
+          <p>Meet the students, researchers, and alumni who make up our community.</p>
+          <span class="home-card-link">Meet the team <span aria-hidden="true">→</span></span>
+        </a>
+        <a class="home-card" href="{{ site.baseurl }}/research">
+          <span class="home-card-number">02</span>
+          <h3>Our research</h3>
+          <p>Discover the questions and ideas driving our work in language processing.</p>
+          <span class="home-card-link">See our research <span aria-hidden="true">→</span></span>
+        </a>
+        <a class="home-card" href="{{ site.baseurl }}/publications">
+          <span class="home-card-number">03</span>
+          <h3>Our publications</h3>
+          <p>Read what our group has been writing, building, and sharing.</p>
+          <span class="home-card-link">Browse publications <span aria-hidden="true">→</span></span>
+        </a>
+      </div>
+    </section>
+
+    <aside id="newsid" class="home-news" aria-label="Latest news">
+      {% include news.html %}
+    </aside>
+  </div>
+</main>

@@ -1,11 +1,14 @@
 
-<div class="well">
-<h4>News</h4>
-
-{% for article in site.data.news limit:5 %}
-<p>{{ article.date }}<br>
-{{ article.headline }}<br></p>
-{% endfor %}
-
-  <a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all news</a>
+<div class="news-card">
+  <p class="home-section-label">From the group</p>
+  <h2>Latest news</h2>
+  <div class="news-list">
+    {% for article in site.data.news limit:5 %}
+    <article class="news-item">
+      <time>{{ article.date }}</time>
+      <p>{{ article.headline }}</p>
+    </article>
+    {% endfor %}
+  </div>
+  <a class="news-all-link" href="{{ site.baseurl }}/allnews.html">All news <span aria-hidden="true">→</span></a>
 </div>
