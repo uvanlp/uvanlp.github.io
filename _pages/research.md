@@ -51,7 +51,7 @@ We build and evaluate systems and resources for generating and understanding lan
 
 Our recent work also applies language technologies in interdisciplinary settings, including scientific literature analysis, engineering education, and large-scale environmental data.
 
-### Research support
+<!-- ### Research support
 
 We gratefully acknowledge support from:
 
@@ -68,4 +68,4 @@ We gratefully acknowledge support from:
   <a class="research-sponsor research-sponsor-nairr" href="https://nairrpilot.org/" aria-label="NAIRR Pilot">
     <span aria-hidden="true">NAIRR <span>Pilot</span></span>
   </a>
-</div>
+</div> -->
